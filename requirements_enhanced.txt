@@ -39,9 +39,6 @@ python-dotenv>=1.0.0
 # Data quality and validation
 great-expectations>=0.17.0
 
-# Parallel processing
-concurrent-futures>=3.1.1
-
 # Progress tracking
 tqdm>=4.65.0
 
@@ -61,13 +58,6 @@ causalinference>=1.1.2
 econml>=0.14.0
 pymc>=5.0.0
 arviz>=0.16.0
-
-# Additional statistical libraries
-statsmodels>=0.14.0
-scipy>=1.11.0
-
-# Database support for real-world evidence
-sqlite3
 
 # Enhanced data validation
 pydantic>=2.0.0

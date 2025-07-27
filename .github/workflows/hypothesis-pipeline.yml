@@ -1,0 +1,109 @@
+name: Automated Hypothesis Testing Pipeline
+
+on:
+  # Daily execution at 2 AM UTC
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # Manual trigger from GitHub UI
+  workflow_dispatch:
+  
+  # Trigger on push to main branch (optional)
+  push:
+    branches: [ main ]
+    paths:
+      - 'enhanced_main_pipeline.py'
+      - 'clinical_trials_analyzer.py'
+      - 'market_analyzer.py'
+      - 'pubmed_analyzer.py'
+      - 'openai_processor.py'
+
+jobs:
+  run-hypothesis-pipeline:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for git operations
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+      
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f "requirements_enhanced.txt" ]; then
+            pip install -r requirements_enhanced.txt
+          elif [ -f "requirements.txt" ]; then
+            pip install -r requirements.txt
+          else
+            pip install pandas requests numpy matplotlib seaborn openai praw
+          fi
+      
+      - name: Install Node.js dependencies
+        run: npm ci
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+      
+      - name: Set up environment variables
+        run: |
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
+          echo "REDDIT_CLIENT_ID=${{ secrets.REDDIT_CLIENT_ID }}" >> $GITHUB_ENV
+          echo "REDDIT_CLIENT_SECRET=${{ secrets.REDDIT_CLIENT_SECRET }}" >> $GITHUB_ENV
+          echo "REDDIT_USER_AGENT=PlaceboRx_Validation_Bot/1.0" >> $GITHUB_ENV
+      
+      - name: Run hypothesis testing pipeline
+        run: |
+          python3 automated_hypothesis_pipeline.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: PlaceboRx_Validation_Bot/1.0
+      
+      - name: Upload logs as artifacts
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: pipeline-logs
+          path: |
+            automation.log
+            pipeline.log
+            *.backup.*
+      
+      - name: Upload generated data
+        if: success()
+        uses: actions/upload-artifact@v3
+        with:
+          name: analysis-results
+          path: |
+            clinical_analysis_results.json
+            market_analysis_results.json
+            pubmed_analysis_results.json
+            output/
+      
+      - name: Notify on success
+        if: success()
+        run: |
+          echo "✅ Hypothesis testing pipeline completed successfully!"
+          echo "🌐 Site should be updated at: https://${{ secrets.VERCEL_PROJECT_NAME }}.vercel.app"
+      
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "❌ Hypothesis testing pipeline failed!"
+          echo "Check the logs for details." 

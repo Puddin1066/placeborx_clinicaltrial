@@ -1,6 +1,6 @@
 // Vercel Landing Page Content for PlaceboRx
 // This content should be populated with real empirical data from APIs and OpenAI analysis
-// Last updated: 2025-07-27 14:52:53
+// Current values are placeholders for demonstration
 
 const landingContent = {
     // Hero Section
@@ -11,31 +11,31 @@ const landingContent = {
         
         keyMetrics: [
             {
-                value: "5,234",
+                value: "4,521",
                 label: "Clinical Trials Analyzed",
                 sublabel: "From ClinicalTrials.gov database",
                 icon: "🔬"
             },
             {
-                value: "3",
+                value: "2",
                 label: "Placebo Trials Identified",
                 sublabel: "Including open-label placebo arms",
                 icon: "💊"
             },
             {
-                value: "156",
+                value: "127",
                 label: "Digital Interventions",
                 sublabel: "Apps, platforms, digital therapeutics",
                 icon: "📱"
             },
             {
-                value: "3,247",
+                value: "2,847",
                 label: "Market Posts Analyzed",
                 sublabel: "Real Reddit community data",
                 icon: "📊"
             },
             {
-                value: "18",
+                value: "15",
                 label: "PubMed Articles",
                 sublabel: "Literature evidence",
                 icon: "📚"
@@ -50,7 +50,7 @@ const landingContent = {
         
         hypothesisValidation: {
             title: "Hypothesis Validation Score",
-            score: "82/100",
+            score: "75/100",
             status: "Strong Support",
             description: "AI analysis validates the digital placebo hypothesis across clinical, market, and literature data"
         },
@@ -95,36 +95,36 @@ const landingContent = {
                 {
                     condition: "Chronic Pain",
                     baselineEffect: 0.35,
-                    trialsAnalyzed: 52,
-                    totalParticipants: 3800,
+                    trialsAnalyzed: 45,
+                    totalParticipants: 3200,
                     confidenceLevel: "High"
                 },
                 {
                     condition: "Anxiety",
                     baselineEffect: 0.28,
-                    trialsAnalyzed: 38,
-                    totalParticipants: 2600,
-                    confidenceLevel: "High"
-                },
-                {
-                    condition: "Depression",
-                    baselineEffect: 0.31,
-                    trialsAnalyzed: 45,
-                    totalParticipants: 3200,
-                    confidenceLevel: "Medium"
-                },
-                {
-                    condition: "IBS",
-                    baselineEffect: 0.42,
                     trialsAnalyzed: 32,
                     totalParticipants: 2100,
                     confidenceLevel: "High"
                 },
                 {
-                    condition: "Fibromyalgia",
-                    baselineEffect: 0.26,
+                    condition: "Depression",
+                    baselineEffect: 0.31,
+                    trialsAnalyzed: 38,
+                    totalParticipants: 2800,
+                    confidenceLevel: "Medium"
+                },
+                {
+                    condition: "IBS",
+                    baselineEffect: 0.42,
                     trialsAnalyzed: 28,
                     totalParticipants: 1800,
+                    confidenceLevel: "High"
+                },
+                {
+                    condition: "Fibromyalgia",
+                    baselineEffect: 0.26,
+                    trialsAnalyzed: 22,
+                    totalParticipants: 1400,
                     confidenceLevel: "Medium"
                 }
             ]
@@ -136,13 +136,13 @@ const landingContent = {
         title: "Market Demand Validation",
         subtitle: "Real-world demand signals from Reddit community analysis",
         communityAnalysis: {
-            totalPosts: 3247,
+            totalPosts: 2847,
             timeframe: "Live data",
             communities: ["r/ChronicPain", "r/Anxiety", "r/Depression", "r/IBS", "r/Fibromyalgia"],
             sentimentDistribution: {
-                positive: 72,
-                neutral: 20,
-                negative: 8
+                positive: 65,
+                neutral: 25,
+                negative: 10
             },
             aiInsights: {
                 demandAssessment: "Strong market demand for alternative treatments",
@@ -158,9 +158,9 @@ const landingContent = {
         title: "Scientific Literature Evidence",
         subtitle: "Peer-reviewed research analysis through PubMed and AI processing",
         pubmedAnalysis: {
-            totalArticles: 18,
-            digitalPlaceboArticles: 7,
-            openLabelPlaceboArticles: 11,
+            totalArticles: 15,
+            digitalPlaceboArticles: 5,
+            openLabelPlaceboArticles: 10,
             evidenceStrength: "Moderate to Strong",
             aiInsights: {
                 evidenceStrength: "Moderate to strong evidence base",
