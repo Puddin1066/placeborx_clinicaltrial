@@ -289,7 +289,7 @@ export default function Home() {
                   transition={{ duration: 0.8, delay: index * 0.1 }}
                   whileHover={{ scale: 1.05 }}
                 >
-                  <div className="text-3xl mb-2 animate-pulse-slow">{metric.icon}</div>
+                  <div className="text-3xl mb-2">{metric.icon}</div>
                   <div className="text-3xl font-bold text-white mb-1">{metric.value}</div>
                   <div className="text-sm text-blue-100 font-medium">{metric.label}</div>
                   <div className="text-xs text-blue-200 opacity-80">{metric.sublabel}</div>
@@ -327,7 +327,7 @@ export default function Home() {
                 whileInView={{ opacity: 1, x: 0 }}
                 transition={{ duration: 0.8, delay: index * 0.1 }}
                 viewport={{ once: true }}
-                whileHover={{ scale: 1.02 }}
+
               >
                 <div className="flex items-start space-x-4">
                   <div className="p-3 bg-primary-100 rounded-lg">
