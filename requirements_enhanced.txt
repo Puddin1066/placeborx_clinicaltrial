@@ -30,6 +30,9 @@ praw>=7.7.0
 # OpenAI API (optional)
 openai>=1.3.0
 
+# PubMed API
+biopython>=1.85
+
 # Configuration and environment
 python-dotenv>=1.0.0
 

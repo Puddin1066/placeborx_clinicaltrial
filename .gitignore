@@ -38,3 +38,4 @@ Thumbs.db
 # Reports (optional - uncomment if you don't want to track reports)
 # *.md
 # *.html 
+.vercel

@@ -15,6 +15,8 @@ import pandas as pd
 # Import existing components
 from clinical_trials_analyzer import ClinicalTrialsAnalyzer
 from market_analyzer import MarketAnalyzer
+from pubmed_analyzer import PubMedAnalyzer
+from openai_processor import OpenAIProcessor
 
 # Import new enhanced components
 from enhanced_config import CONFIG, AnalysisMode, ValidationLevel
@@ -43,13 +45,18 @@ class EnhancedValidationPipeline:
         self.data_validator = DataQualityValidator(self.config.quality.validation_level)
         self.ml_engine = MLEnhancementEngine()
         self.viz_engine = VisualizationEngine()
+        self.pubmed_analyzer = PubMedAnalyzer()
+        self.openai_processor = OpenAIProcessor()
         
         # Results storage
         self.results = {
             'clinical_data': pd.DataFrame(),
             'market_data': pd.DataFrame(),
+            'pubmed_data': {},
+            'openai_insights': {},
             'clinical_validation': None,
             'market_validation': None,
+            'pubmed_validation': None,
             'ml_insights': {},
             'execution_time': 0,
             'quality_scores': {}
@@ -127,9 +134,9 @@ class EnhancedValidationPipeline:
             raise
     
     def run_enhanced_market_analysis(self) -> ValidationResult:
-        """Run enhanced market analysis with advanced sentiment and ML"""
+        """Run enhanced market analysis with ML and quality validation"""
         self.logger.info("\n" + "="*60)
-        self.logger.info("📊 ENHANCED MARKET VALIDATION ANALYSIS")
+        self.logger.info("📊 ENHANCED MARKET ANALYSIS")
         self.logger.info("="*60)
         
         start_time = time.time()
@@ -137,18 +144,17 @@ class EnhancedValidationPipeline:
         try:
             # Step 1: Basic market analysis
             analyzer = MarketAnalyzer()
-            market_results = analyzer.run_analysis()
+            market_df = analyzer.run_analysis()
             
-            # Extract posts data
-            if 'posts_data' in market_results:
-                market_df = pd.DataFrame(market_results['posts_data'])
+            if isinstance(market_df, dict) and 'posts' in market_df:
+                posts_df = pd.DataFrame(market_df['posts'])
+                self.logger.info(f"Retrieved {len(posts_df)} market posts")
             else:
-                market_df = pd.DataFrame()
-            
-            self.logger.info(f"Retrieved {len(market_df)} market posts")
+                posts_df = pd.DataFrame()
+                self.logger.warning("No market posts retrieved")
             
             # Step 2: Data quality validation
-            validation_result = self.data_validator.validate_market_data(market_df)
+            validation_result = self.data_validator.validate_market_data(posts_df)
             
             if validation_result.is_valid:
                 self.logger.info(f"✅ Market data validation passed (Quality Score: {validation_result.quality_score:.2f})")
@@ -157,32 +163,130 @@ class EnhancedValidationPipeline:
                 self.logger.warning(f"⚠️ Market data validation issues found (Quality Score: {validation_result.quality_score:.2f})")
                 for issue in validation_result.issues:
                     self.logger.warning(f"  - {issue}")
-                
-                # Use cleaned data even if validation failed
-                if validation_result.cleaned_data is not None:
-                    market_df = validation_result.cleaned_data
+                market_df = validation_result.cleaned_data
             
-            # Step 3: ML Enhancement
+            # Step 3: ML enhancement
             if self.config.enable_ml_enhancement and not market_df.empty:
-                self.logger.info("🤖 Applying advanced sentiment analysis and ML...")
-                market_df = self.ml_engine.enhance_market_analysis(market_df)
-                self.logger.info("✅ Advanced market analysis completed")
-            
-            # Step 4: Save enhanced data
-            market_df.to_csv(f"{self.config.output.output_dir}/enhanced_market_analysis.csv", index=False)
+                self.logger.info("🤖 Applying ML enhancement to market data...")
+                enhanced_market = self.ml_engine.enhance_market_analysis(market_df)
+                market_df = enhanced_market
             
             # Store results
             self.results['market_data'] = market_df
             self.results['market_validation'] = validation_result
             
-            elapsed_time = time.time() - start_time
-            self.logger.info(f"⏱️ Enhanced market analysis completed in {elapsed_time:.1f} seconds")
+            execution_time = time.time() - start_time
+            self.logger.info(f"✅ Market analysis completed in {execution_time:.2f} seconds")
             
             return validation_result
             
         except Exception as e:
-            self.logger.error(f"❌ Enhanced market analysis failed: {e}")
-            raise
+            self.logger.error(f"❌ Error in market analysis: {e}")
+            return ValidationResult(is_valid=False, quality_score=0.0, issues=[str(e)])
+    
+    def run_enhanced_pubmed_analysis(self) -> Dict[str, Any]:
+        """Run enhanced PubMed literature analysis for hypothesis testing"""
+        self.logger.info("\n" + "="*60)
+        self.logger.info("📚 ENHANCED PUBMED LITERATURE ANALYSIS")
+        self.logger.info("="*60)
+        
+        start_time = time.time()
+        
+        try:
+            # Run PubMed analysis
+            pubmed_results = self.pubmed_analyzer.analyze_placebo_literature()
+            
+            self.logger.info(f"Retrieved {pubmed_results['total_articles']} PubMed articles")
+            self.logger.info(f"Digital placebo articles: {pubmed_results['digital_placebo_articles']}")
+            self.logger.info(f"Open-label placebo articles: {pubmed_results['placebo_articles']}")
+            
+            # Store results
+            self.results['pubmed_data'] = pubmed_results
+            
+            # Generate validation result
+            evidence = pubmed_results.get('hypothesis_evidence', {})
+            literature_support = evidence.get('literature_support', {})
+            
+            digital_evidence = literature_support.get('digital_placebo_evidence', {})
+            olp_evidence = literature_support.get('open_label_placebo_evidence', {})
+            
+            # Calculate quality score based on evidence strength
+            quality_score = 0.0
+            issues = []
+            
+            if digital_evidence.get('strength') == 'Strong':
+                quality_score += 0.5
+            elif digital_evidence.get('strength') == 'Moderate':
+                quality_score += 0.3
+            else:
+                issues.append("Limited digital placebo literature")
+            
+            if olp_evidence.get('strength') == 'Strong':
+                quality_score += 0.5
+            elif olp_evidence.get('strength') == 'Moderate':
+                quality_score += 0.3
+            else:
+                issues.append("Limited open-label placebo literature")
+            
+            validation_result = ValidationResult(
+                is_valid=quality_score > 0.3,
+                quality_score=quality_score,
+                issues=issues
+            )
+            
+            self.results['pubmed_validation'] = validation_result
+            
+            execution_time = time.time() - start_time
+            self.logger.info(f"✅ PubMed analysis completed in {execution_time:.2f} seconds")
+            
+            return pubmed_results
+            
+        except Exception as e:
+            self.logger.error(f"❌ Error in PubMed analysis: {e}")
+            return {}
+    
+    def run_enhanced_openai_analysis(self) -> Dict[str, Any]:
+        """Run enhanced OpenAI analysis on all data sources"""
+        self.logger.info("\n" + "="*60)
+        self.logger.info("🤖 ENHANCED OPENAI ANALYSIS")
+        self.logger.info("="*60)
+        
+        start_time = time.time()
+        
+        try:
+            # Get all data sources
+            clinical_data = self.results.get('clinical_data', pd.DataFrame())
+            market_data = self.results.get('market_data', {})
+            pubmed_data = self.results.get('pubmed_data', {})
+            
+            # Process all data through OpenAI
+            openai_insights = self.openai_processor.process_all_data(
+                clinical_data, market_data, pubmed_data
+            )
+            
+            # Store results
+            self.results['openai_insights'] = openai_insights
+            
+            # Log key insights
+            hypothesis_validation = openai_insights.get('hypothesis_validation', {})
+            validation_score = hypothesis_validation.get('validation_score', 0)
+            
+            self.logger.info(f"OpenAI analysis completed:")
+            self.logger.info(f"  - Hypothesis validation score: {validation_score}/100")
+            self.logger.info(f"  - Clinical insights: {len(openai_insights.get('clinical_insights', {}))} items")
+            self.logger.info(f"  - Market insights: {len(openai_insights.get('market_insights', {}))} items")
+            self.logger.info(f"  - PubMed insights: {len(openai_insights.get('pubmed_insights', {}))} items")
+            self.logger.info(f"  - Cross-analysis: {len(openai_insights.get('cross_analysis', {}))} items")
+            self.logger.info(f"  - Recommendations: {len(openai_insights.get('recommendations', {}))} items")
+            
+            execution_time = time.time() - start_time
+            self.logger.info(f"✅ OpenAI analysis completed in {execution_time:.2f} seconds")
+            
+            return openai_insights
+            
+        except Exception as e:
+            self.logger.error(f"❌ Error in OpenAI analysis: {e}")
+            return {}
     
     def generate_advanced_visualizations(self):
         """Generate comprehensive visualizations and dashboards"""
@@ -522,14 +626,20 @@ class EnhancedValidationPipeline:
             # 3. Enhanced market analysis
             market_validation = self.run_enhanced_market_analysis()
             
-            # 4. Generate visualizations
+            # 4. Enhanced PubMed analysis
+            pubmed_data = self.run_enhanced_pubmed_analysis()
+            
+            # 5. Enhanced OpenAI analysis
+            openai_insights = self.run_enhanced_openai_analysis()
+            
+            # 6. Generate visualizations
             if self.config.output.include_visualizations:
                 self.generate_advanced_visualizations()
             
-            # 5. Generate comprehensive reports
+            # 7. Generate comprehensive reports
             self.generate_comprehensive_reports()
             
-            # 6. Save models and artifacts
+            # 8. Save models and artifacts
             self.save_models_and_artifacts()
             
             # Calculate total execution time
