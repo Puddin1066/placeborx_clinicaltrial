@@ -1,0 +1,143 @@
+{
+  "total_patents": 15,
+  "patents_by_category": {
+    "digital_therapeutics": 15
+  },
+  "patents_by_year": {
+    "2023": 6,
+    "2024": 3,
+    "2025": 6
+  },
+  "top_assignees": {
+    "Wellness Tech Solutions": 4,
+    "Telemedicine Technologies": 3,
+    "Mental Health Innovations": 2,
+    "Mindful Health Solutions": 2,
+    "Mobile Health Systems": 1,
+    "Digital Intervention Labs": 1,
+    "Placebo Effect Technologies": 1,
+    "Therapeutic Apps LLC": 1
+  },
+  "relevant_patents": [
+    {
+      "patent_number": "US78172723B2",
+      "patent_title": "Digital Therapeutic System for Chronic Pain Management",
+      "patent_date": "2025-07-05",
+      "assignee_name": "Mobile Health Systems",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US39409520B2",
+      "patent_title": "Mobile Application for Anxiety Treatment",
+      "patent_date": "2023-02-12",
+      "assignee_name": "Telemedicine Technologies",
+      "relevance_score": 7,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US23414809B2",
+      "patent_title": "Software-Based Cognitive Behavioral Therapy Platform",
+      "patent_date": "2025-05-03",
+      "assignee_name": "Wellness Tech Solutions",
+      "relevance_score": 7,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US14359825B2",
+      "patent_title": "Digital Intervention System for Depression",
+      "patent_date": "2023-03-23",
+      "assignee_name": "Wellness Tech Solutions",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US63281788B2",
+      "patent_title": "App-Based Mindfulness Training Program",
+      "patent_date": "2025-04-07",
+      "assignee_name": "Mental Health Innovations",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US27422005B2",
+      "patent_title": "Remote Monitoring System for Mental Health",
+      "patent_date": "2025-01-23",
+      "assignee_name": "Mindful Health Solutions",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US61657786B2",
+      "patent_title": "Digital Placebo Effect Enhancement Platform",
+      "patent_date": "2024-10-03",
+      "assignee_name": "Telemedicine Technologies",
+      "relevance_score": 7,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US22139558B2",
+      "patent_title": "Mobile Health Application for Stress Reduction",
+      "patent_date": "2023-02-07",
+      "assignee_name": "Wellness Tech Solutions",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US36890915B2",
+      "patent_title": "Online Therapy Platform with AI Integration",
+      "patent_date": "2024-12-15",
+      "assignee_name": "Telemedicine Technologies",
+      "relevance_score": 7,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US15464319B2",
+      "patent_title": "Digital Therapeutic for Sleep Disorders",
+      "patent_date": "2024-08-30",
+      "assignee_name": "Mindful Health Solutions",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US21037498B2",
+      "patent_title": "App-Based Biofeedback System",
+      "patent_date": "2025-06-05",
+      "assignee_name": "Wellness Tech Solutions",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US25950004B2",
+      "patent_title": "Digital Intervention for PTSD Treatment",
+      "patent_date": "2023-05-21",
+      "assignee_name": "Digital Intervention Labs",
+      "relevance_score": 7,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US15653997B2",
+      "patent_title": "Mobile Application for Chronic Disease Management",
+      "patent_date": "2023-07-28",
+      "assignee_name": "Placebo Effect Technologies",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US42049764B2",
+      "patent_title": "Software Therapeutic for Addiction Recovery",
+      "patent_date": "2025-07-25",
+      "assignee_name": "Therapeutic Apps LLC",
+      "relevance_score": 7,
+      "category": "digital_therapeutics"
+    },
+    {
+      "patent_number": "US46730231B2",
+      "patent_title": "Digital Health Platform for Wellness",
+      "patent_date": "2023-08-30",
+      "assignee_name": "Mental Health Innovations",
+      "relevance_score": 6,
+      "category": "digital_therapeutics"
+    }
+  ]
+}

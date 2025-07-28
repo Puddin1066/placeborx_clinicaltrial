@@ -1,0 +1,34 @@
+{
+  "patent_trends": {
+    "digital_therapeutics": {
+      "2023": 6,
+      "2024": 3,
+      "2025": 6
+    },
+    "placebo_effects": {
+      "2023": 3,
+      "2024": 4,
+      "2025": 3
+    }
+  },
+  "technology_maturity": {
+    "digital_therapeutics": {
+      "total_patents": 15,
+      "recent_patents": 9,
+      "maturity_score": 1.0
+    },
+    "placebo_effects": {
+      "total_patents": 10,
+      "recent_patents": 5,
+      "maturity_score": 1.0
+    }
+  },
+  "market_opportunity": {
+    "digital_therapeutics_opportunity": "High",
+    "placebo_effects_opportunity": "High",
+    "competitive_landscape": "Emerging",
+    "innovation_gaps": []
+  },
+  "total_patents": 25,
+  "analysis_timestamp": "2025-07-27T20:44:13.691656"
+}

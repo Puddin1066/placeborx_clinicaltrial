@@ -11,39 +11,40 @@ class ClinicalTrialsAnalyzer:
         self.results = []
         
     def search_olp_trials(self, search_terms: List[str]) -> List[Dict]:
-        """Search for OLP trials using the working API approach"""
+        """Search for OLP trials using the v2 API with local filtering"""
         all_trials = []
         
-        for term in search_terms:
-            print(f"Searching for: {term}")
+        print("Fetching trials from ClinicalTrials.gov API v2...")
+        
+        # Fetch a large sample of trials and filter locally
+        params = {
+            'pageSize': 1000,  # Get more trials to increase chances of finding matches
+            'format': 'json'
+        }
+        
+        try:
+            response = requests.get(self.api_url, params=params)
+            response.raise_for_status()
+            data = response.json()
             
-            # Use the working API approach
-            params = {
-                'pageSize': 100,
-                'format': 'json'
-            }
-            
-            try:
-                response = requests.get(self.api_url, params=params)
-                response.raise_for_status()
-                data = response.json()
+            if 'studies' in data:
+                trials = data['studies']
+                print(f"Fetched {len(trials)} trials, filtering for search terms...")
                 
-                if 'studies' in data:
-                    trials = data['studies']
-                    # Filter trials that contain our search term
-                    matching_trials = []
-                    for trial in trials:
-                        trial_text = json.dumps(trial).lower()
+                # Filter trials that contain any of our search terms
+                for trial in trials:
+                    trial_text = json.dumps(trial).lower()
+                    for term in search_terms:
                         if term.lower() in trial_text:
-                            matching_trials.append(trial)
-                    
-                    all_trials.extend(matching_trials)
-                    print(f"Found {len(matching_trials)} trials containing '{term}'")
-                    
-            except Exception as e:
-                print(f"Error searching for {term}: {e}")
+                            all_trials.append(trial)
+                            break  # Only add once per trial
                 
-            time.sleep(1)  # Rate limiting
+                print(f"Found {len(all_trials)} trials matching search terms")
+            else:
+                print("No studies found in API response")
+                
+        except Exception as e:
+            print(f"Error fetching trials: {e}")
             
         return all_trials
     
@@ -102,22 +103,6 @@ class ClinicalTrialsAnalyzer:
             if indicator in intervention_text or indicator in title_text:
                 significance_data['is_digital'] = True
                 significance_data['digital_indicators'].append(indicator)
-        
-        # Extract enrollment
-        enrollment_info = protocol.get('designModule', {}).get('enrollmentInfo', {})
-        if enrollment_info:
-            significance_data['enrollment'] = enrollment_info.get('count', '')
-        
-        # Extract phase
-        phases = protocol.get('designModule', {}).get('phases', [])
-        if phases:
-            significance_data['phase'] = phases[0]
-        
-        # Extract completion date
-        status = protocol.get('statusModule', {})
-        if status:
-            completion_date = status.get('completionDateStruct', {}).get('date', '')
-            significance_data['completion_date'] = completion_date
         
         # Analyze for clinical significance based on available data
         if significance_data['has_results']:

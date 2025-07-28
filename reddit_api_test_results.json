@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-07-27T20:37:26.366272",
+  "data_type": "mock",
+  "total_posts": 58,
+  "subreddits": [
+    "mentalhealth",
+    "chronicpain",
+    "depression",
+    "anxiety",
+    "wellness"
+  ],
+  "sample_posts": [
+    {
+      "title": "Desperate for pain relief",
+      "author": "pain_sufferer_2024",
+      "score": 134,
+      "num_comments": 8,
+      "created_utc": "2025-07-26 20:37:26",
+      "url": "https://reddit.com/r/chronicpain/comments/mock0",
+      "selftext": "This is a mock post about chronicpain and alternative treatments. Looking for help and suggestions.",
+      "subreddit": "chronicpain"
+    },
+    {
+      "title": "Nothing works for my chronic pain",
+      "author": "non_pharma_seeker",
+      "score": 144,
+      "num_comments": 16,
+      "created_utc": "2025-07-14 20:37:26",
+      "url": "https://reddit.com/r/chronicpain/comments/mock1",
+      "selftext": "This is a mock post about chronicpain and alternative treatments. Looking for help and suggestions.",
+      "subreddit": "chronicpain"
+    },
+    {
+      "title": "Looking for non-drug pain management",
+      "author": "anxiety_free",
+      "score": 51,
+      "num_comments": 20,
+      "created_utc": "2025-07-25 20:37:26",
+      "url": "https://reddit.com/r/chronicpain/comments/mock2",
+      "selftext": "This is a mock post about chronicpain and alternative treatments. Looking for help and suggestions.",
+      "subreddit": "chronicpain"
+    },
+    {
+      "title": "Chronic back pain - need suggestions",
+      "author": "alternative_healing",
+      "score": 56,
+      "num_comments": 3,
+      "created_utc": "2025-07-21 20:37:26",
+      "url": "https://reddit.com/r/chronicpain/comments/mock3",
+      "selftext": "This is a mock post about chronicpain and alternative treatments. Looking for help and suggestions.",
+      "subreddit": "chronicpain"
+    },
+    {
+      "title": "Chronic pain for 3 years, nothing helps",
+      "author": "wellness_journey",
+      "score": 28,
+      "num_comments": 3,
+      "created_utc": "2025-07-24 20:37:26",
+      "url": "https://reddit.com/r/chronicpain/comments/mock4",
+      "selftext": "This is a mock post about chronicpain and alternative treatments. Looking for help and suggestions.",
+      "subreddit": "chronicpain"
+    }
+  ]
+}

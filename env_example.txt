@@ -5,4 +5,8 @@ REDDIT_CLIENT_SECRET=your_reddit_client_secret_here
 REDDIT_USER_AGENT=PlaceboRx_Validation_Bot/1.0
 
 # OpenAI API Key (optional, for enhanced analysis)
-OPENAI_API_KEY=your_openai_api_key_here 
+OPENAI_API_KEY=your_openai_api_key_here
+
+# PatentsView API Key (for patent analysis)
+# Note: PatentsView API has been discontinued, but key is kept for reference
+PATENTSVIEW_API_KEY=noCNxhqh.63XyW1sKoK9tFQ9xPBa7nenbaIJppIcP 

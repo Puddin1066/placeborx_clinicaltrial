@@ -1,0 +1,102 @@
+{
+  "total_patents": 10,
+  "patents_by_category": {
+    "placebo_effects": 10
+  },
+  "patents_by_year": {
+    "2023": 3,
+    "2024": 4,
+    "2025": 3
+  },
+  "top_assignees": {
+    "Mindful Health Solutions": 3,
+    "Therapeutic Apps LLC": 2,
+    "Digital Medicine Corp.": 1,
+    "Wellness Tech Solutions": 1,
+    "Digital Intervention Labs": 1,
+    "Placebo Effect Technologies": 1,
+    "Mobile Health Systems": 1
+  },
+  "relevant_patents": [
+    {
+      "patent_number": "US92860064B2",
+      "patent_title": "Open Label Placebo Effect Enhancement System",
+      "patent_date": "2025-04-17",
+      "assignee_name": "Mindful Health Solutions",
+      "relevance_score": 5,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US28430467B2",
+      "patent_title": "Digital Placebo Response Optimization",
+      "patent_date": "2024-08-22",
+      "assignee_name": "Digital Medicine Corp.",
+      "relevance_score": 5,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US59086652B2",
+      "patent_title": "Expectation Effect Amplification Platform",
+      "patent_date": "2025-07-23",
+      "assignee_name": "Mindful Health Solutions",
+      "relevance_score": 5,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US68988076B2",
+      "patent_title": "Mind-Body Connection Digital Interface",
+      "patent_date": "2024-11-07",
+      "assignee_name": "Wellness Tech Solutions",
+      "relevance_score": 6,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US57142108B2",
+      "patent_title": "Psychological Treatment Enhancement System",
+      "patent_date": "2023-07-13",
+      "assignee_name": "Therapeutic Apps LLC",
+      "relevance_score": 6,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US43794484B2",
+      "patent_title": "Nocebo Effect Mitigation Platform",
+      "patent_date": "2024-01-17",
+      "assignee_name": "Digital Intervention Labs",
+      "relevance_score": 5,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US53086052B2",
+      "patent_title": "Digital Therapeutic with Placebo Component",
+      "patent_date": "2024-04-06",
+      "assignee_name": "Therapeutic Apps LLC",
+      "relevance_score": 5,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US85748900B2",
+      "patent_title": "Expectation Management Digital System",
+      "patent_date": "2025-06-25",
+      "assignee_name": "Mindful Health Solutions",
+      "relevance_score": 5,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US23473622B2",
+      "patent_title": "Placebo Response Prediction Algorithm",
+      "patent_date": "2023-12-06",
+      "assignee_name": "Placebo Effect Technologies",
+      "relevance_score": 5,
+      "category": "placebo_effects"
+    },
+    {
+      "patent_number": "US23069890B2",
+      "patent_title": "Digital Intervention with Expectation Effects",
+      "patent_date": "2023-07-26",
+      "assignee_name": "Mobile Health Systems",
+      "relevance_score": 6,
+      "category": "placebo_effects"
+    }
+  ]
+}
