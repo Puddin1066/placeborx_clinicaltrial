@@ -1,0 +1,1509 @@
+{
+  "metadata": {
+    "timestamp": "2025-07-28T04:06:38.945991",
+    "total_patents_fetched": 80,
+    "search_terms": [
+      "digital placebo",
+      "virtual placebo",
+      "digital therapeutic placebo",
+      "app-based placebo",
+      "digital expectation therapy",
+      "software placebo intervention",
+      "digital psychological intervention",
+      "virtual therapeutic presence"
+    ],
+    "search_results": {
+      "digital placebo": {
+        "total_results": 82484,
+        "patents_retrieved": 10,
+        "patents": [
+          {
+            "patent_number": "US11972859B2",
+            "title": " Computational pathology approach for retrospective analysis of tissue-based ...",
+            "description": " Automated systems and methods are presented for retrospectively analyzing clinical trial data. A plurality of image derived from biological samples of patients in a cohort population are accessed. Image features are computed based on the plurality of images. A diagnostic feature metric is derived ...",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/US11972859B2",
+            "rank": 0,
+            "fetched_date": "2025-07-28T04:06:29.152094"
+          },
+          {
+            "patent_number": "AU2022203142B2",
+            "title": " Tolerogenic synthetic nanocarriers and therapeutic macromolecules for reduced ...",
+            "description": " Disclosed are compositions and methods that provide pharmacodynamic effects specific to therapeutic macromolecules. The effects may result from reduced doses of therapeutic macromolecules in combination with immunosuppressant doses. The effects may also be enhanced with such compositions.",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/AU2022203142B2",
+            "rank": 1,
+            "fetched_date": "2025-07-28T04:06:29.152123"
+          },
+          {
+            "patent_number": "AU2017208170B2",
+            "title": " Method and system for controlling the delivery of active agents",
+            "description": " Systems and methods for analyzing and/or using information collected from a plurality of users in conjunction with the use of delivery devices for active agents are described. In some embodiments, the delivery device comprises an inhaler device. In some embodiments, the information collecting ...",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/AU2017208170B2",
+            "rank": 2,
+            "fetched_date": "2025-07-28T04:06:29.152127"
+          },
+          {
+            "patent_number": "US10806942B2",
+            "title": " System and method for applying a low frequency magnetic field to biological ...",
+            "description": " A system and method for applying a low strength, low frequency magnetic field therapy to biological tissues. A coil is excited with a low frequency oscillating current, e.g., 10-1000 Hz. The coil is, e.g., 5-200 turns, having a diameter of 2-20 mm, and produces a magnetic field strength of about ...",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/US10806942B2",
+            "rank": 3,
+            "fetched_date": "2025-07-28T04:06:29.152133"
+          },
+          {
+            "patent_number": "AU2022202786A1",
+            "title": " Computer security based on artificial intelligence",
+            "description": " Computer Security System Based On Artificial Intelligence includes Critical Infrastructure Protection & Retribution (CIPR) through Cloud & Tiered Information Security (CTIS), Machine Clandestine Intelligence (MACINT) & Retribution through Covert Operations in Cyberspace, Logically Inferred Zero- ...",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/AU2022202786A1",
+            "rank": 4,
+            "fetched_date": "2025-07-28T04:06:29.152137"
+          },
+          {
+            "patent_number": "US10702577B2",
+            "title": " Combination therapies using cyclosporine and aromatic cationic peptides",
+            "description": " The invention provides compositions and methods for preventing or treating an ischemia-reperfusion injury, such as occurs during acute myocardial infarction and organ transplant in a mammalian subject. The methods comprise administering to the subject an effective amount of an aromatic-cationic ...",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/US10702577B2",
+            "rank": 5,
+            "fetched_date": "2025-07-28T04:06:29.152139"
+          },
+          {
+            "patent_number": "US10769495B2",
+            "title": " Collecting multimodal image editing requests",
+            "description": " In implementations of collecting multimodal image editing requests (IERs), a user interface is generated that exposes an image pair including a first image and a second image including at least one edit to the first image. A user simultaneously speaks a voice command and performs a user gesture ...",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/US10769495B2",
+            "rank": 6,
+            "fetched_date": "2025-07-28T04:06:29.152140"
+          },
+          {
+            "patent_number": "US20190308015A1",
+            "title": " Methods and devices for treating the skin",
+            "description": " An apparatus includes multiple first reservoirs and multiple second reservoirs joined with a substrate. Selected ones of the multiple first reservoirs include a reducing agent, and first reservoir surfaces of selected ones of the multiple first reservoirs are proximate to a first substrate surface ...",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/US20190308015A1",
+            "rank": 7,
+            "fetched_date": "2025-07-28T04:06:29.152142"
+          },
+          {
+            "patent_number": "US20220323462A1",
+            "title": " 19-nor c3,3-disubstituted c21-n-pyrazolyl steroid and methods of use thereof",
+            "description": " Provided herein are methods for treating depression, such as postpartum depression or major depressive disorder, in a subject in need thereof, comprising administering to the subject an effective amount of Compound 1 or a pharmaceutically acceptable salt thereof:",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/US20220323462A1",
+            "rank": 8,
+            "fetched_date": "2025-07-28T04:06:29.152144"
+          },
+          {
+            "patent_number": "US20220133891A1",
+            "title": " Hemostatic microspheres",
+            "description": " Provided herein are hemostatic compositions. In one embodiment, the hemostatic composition includes cross-linked polymer microspheres, such as cross-linked gelatin microspheres with pores. In another embodiment, the hemostatic composition comprises an additive such as a wetting agent, a suspending ...",
+            "search_term": "digital placebo",
+            "google_link": "https://patents.google.com/patent/US20220133891A1",
+            "rank": 9,
+            "fetched_date": "2025-07-28T04:06:29.152150"
+          }
+        ]
+      },
+      "virtual placebo": {
+        "total_results": 29442,
+        "patents_retrieved": 10,
+        "patents": [
+          {
+            "patent_number": "US9694155B2",
+            "title": " Adjuvant method for the interface of psychosomatic approaches and technology ...",
+            "description": " A method to induce an immediate psychosomatic change in a patient optimal for a particular medical procedure, is provided. The method uses a brain-computer interface integrating a loop of biofeedback and neurofeedback components, interactive, immersive, 3D virtual reality (VR) modules utilizing ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/US9694155B2",
+            "rank": 0,
+            "fetched_date": "2025-07-28T04:06:30.141871"
+          },
+          {
+            "patent_number": "US11887738B2",
+            "title": " Platforms for conducting virtual trials",
+            "description": " The present disclosure provides platforms, systems, media, and methods for capturing clinical cases and expert-derived treatment rationales to facilitate biomedical decision making, which can include virtual clinical trials that continuously learn from the experiences of all patients, on all ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/US11887738B2",
+            "rank": 1,
+            "fetched_date": "2025-07-28T04:06:30.141882"
+          },
+          {
+            "patent_number": "RU2750554C2",
+            "title": " Artificial intelligence based computer security system",
+            "description": " FIELD: computer security. SUBSTANCE: invention relates to the field of computer security. The artificial intelligence based computer security system is equipped with memory and a processor interfaced with memory, and this computer security system also includes active protection of critical ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/RU2750554C2",
+            "rank": 2,
+            "fetched_date": "2025-07-28T04:06:30.141886"
+          },
+          {
+            "patent_number": "JP7547326B2",
+            "title": " System and method for designing clinical trials",
+            "description": " 1. A computer implemented method for enrolling potential patients in a clinical trial for a treatment, comprising: generating first predictive data indicative of a predicted progression of a condition for a first group of patients participating in a first clinical trial using a predictive model ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/JP7547326B2",
+            "rank": 3,
+            "fetched_date": "2025-07-28T04:06:30.141888"
+          },
+          {
+            "patent_number": "JP2025036703A",
+            "title": " Methods for Treating Anxiety Disorders, Headache Disorders, and Eating ...",
+            "description": " The invention described herein.",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/JP2025036703A",
+            "rank": 4,
+            "fetched_date": "2025-07-28T04:06:30.141890"
+          },
+          {
+            "patent_number": "US20210225463A1",
+            "title": " System and Method with Federated Learning Model for Medical Research ...",
+            "description": " The technology disclosed relates to a system and method of conducting virtual clinical trials. The system comprises a sponsor server configured to specify a target mapping of a clinical trial objective mapper. The target mapping maps participant-specific clinical data to an objective of a virtual ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/US20210225463A1",
+            "rank": 5,
+            "fetched_date": "2025-07-28T04:06:30.141892"
+          },
+          {
+            "patent_number": "AU2023222823A1",
+            "title": " Methods of enhancing cognition and systems for practicing the same",
+            "description": " Provided are methods that include presenting to a subject an embodied cognitive task that includes a cognitive component and a physical component. The methods further include assessing the subject&#39;s performance on each of the cognitive component and the physical component, and adapting the ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/AU2023222823A1",
+            "rank": 6,
+            "fetched_date": "2025-07-28T04:06:30.141894"
+          },
+          {
+            "patent_number": "JP6675974B2",
+            "title": " Nasal administration",
+            "description": " A therapeutic agent comprising fluticasone for therapeutically treating a nasal polyp in a patient, comprising: The therapeutic agent is delivered and administered twice daily in an amount of 100 \u03bcg to 400 \u03bcg by a delivery device comprising a mouthpiece and a nosepiece in a first step; and In a ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/JP6675974B2",
+            "rank": 7,
+            "fetched_date": "2025-07-28T04:06:30.141897"
+          },
+          {
+            "patent_number": "US11672779B2",
+            "title": " Modulators of GTPases and their use",
+            "description": " The present invention relates to molecules which function as modulators (i.e., inhibitors and agonists) of the Ras-homologous (Rho) family of small GTPases (e.g. Rac, Cdc42 and Rho GTPases) and their use to treat diseases, including cancers (including solid tumors-medulloblastoma, ovarian, breast, ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/US11672779B2",
+            "rank": 8,
+            "fetched_date": "2025-07-28T04:06:30.141899"
+          },
+          {
+            "patent_number": "US9381243B2",
+            "title": " Methods of identifying critically ill patients at increased risk of development ...",
+            "description": " The present invention relates to compounds for treatment that protects the endothelium, prevents pathologic thrombus formation in the microcirculation and preserves platelet number and function and thus may be related to minimizing or preventing development of organ failure, including multiple ...",
+            "search_term": "virtual placebo",
+            "google_link": "https://patents.google.com/patent/US9381243B2",
+            "rank": 9,
+            "fetched_date": "2025-07-28T04:06:30.141901"
+          }
+        ]
+      },
+      "digital therapeutic placebo": {
+        "total_results": 73656,
+        "patents_retrieved": 10,
+        "patents": [
+          {
+            "patent_number": "WO2011152652A2",
+            "title": " Aceclofenac slow-release preparation providing an optimum pharmacological ...",
+            "description": " The present invention relates to a controlled-release preparation administered orally once a day that exhibits an optimum pharmacological clinical effect, featuring two-layer tablets, dual tablets and multilayered tablets having a fast-release layer comprising aceclofenac, a water-soluble additive ...",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/WO2011152652A2",
+            "rank": 0,
+            "fetched_date": "2025-07-28T04:06:31.348080"
+          },
+          {
+            "patent_number": "WO2023149642A1",
+            "title": " Sustained-release multilayer tablet comprising ticagrelor or pharmaceutically ...",
+            "description": " The present invention relates to a sustained-release multilayer tablet comprising ticagrelor or a pharmaceutically acceptable salt thereof as an active ingredient, and a method for preparing same. When the tablet is administered orally, once a day, ticagrelor or a pharmaceutically acceptable salt ...",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/WO2023149642A1",
+            "rank": 1,
+            "fetched_date": "2025-07-28T04:06:31.348090"
+          },
+          {
+            "patent_number": "WO2025042927A3",
+            "title": " Sustained-release formulations for poorly permeable cyclic peptides",
+            "description": " The present disclosure provides orally administered pharmaceutical compositions that are effective in providing sustained plasma levels of a therapeutic peptide in a subject. The disclosed compositions are oral dosage forms comprising a large and/or poorly permeable cyclic peptide, a fatty acid ...",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/WO2025042927A3",
+            "rank": 2,
+            "fetched_date": "2025-07-28T04:06:31.348093"
+          },
+          {
+            "patent_number": "CN102770120A",
+            "title": " Compositions and methods for mild sedation, anxiolysis and analgesia in the ...",
+            "description": " Small tablets for use in procedural sedation, anxiolysis and analgesia comprising the combination sufentanil and triazolam administered via the oral transmucosal route and methods for using the same are provided.",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/CN102770120A",
+            "rank": 3,
+            "fetched_date": "2025-07-28T04:06:31.348094"
+          },
+          {
+            "patent_number": "JP2013040175A",
+            "title": " Solid composition and method for treating middle-of-the-night insomnia",
+            "description": " PROBLEM TO BE SOLVED: To provide a pharmaceutical composition for treating middle-of-the-night (MOTN) insomnia, and a method for using the composition.SOLUTION: The invention provides a solid pharmaceutical composition including zolpidem, serving as sedative-hypnotics, or a salt thereof; and a ...",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/JP2013040175A",
+            "rank": 4,
+            "fetched_date": "2025-07-28T04:06:31.348096"
+          },
+          {
+            "patent_number": "US10434088B2",
+            "title": " Methods related to administering immunosuppressants and therapeutic ...",
+            "description": " Disclosed are compositions and methods that provide pharmacodynamic effects specific to therapeutic macromolecules. The effects may result from reduced doses of therapeutic macromolecules in combination with immunosuppressant doses. The effects may also be enhanced with such compositions.",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/US10434088B2",
+            "rank": 5,
+            "fetched_date": "2025-07-28T04:06:31.348098"
+          },
+          {
+            "patent_number": "US10806942B2",
+            "title": " System and method for applying a low frequency magnetic field to biological ...",
+            "description": " A system and method for applying a low strength, low frequency magnetic field therapy to biological tissues. A coil is excited with a low frequency oscillating current, e.g., 10-1000 Hz. The coil is, e.g., 5-200 turns, having a diameter of 2-20 mm, and produces a magnetic field strength of about ...",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/US10806942B2",
+            "rank": 6,
+            "fetched_date": "2025-07-28T04:06:31.348101"
+          },
+          {
+            "patent_number": "US11972859B2",
+            "title": " Computational pathology approach for retrospective analysis of tissue-based ...",
+            "description": " Automated systems and methods are presented for retrospectively analyzing clinical trial data. A plurality of image derived from biological samples of patients in a cohort population are accessed. Image features are computed based on the plurality of images. A diagnostic feature metric is derived ...",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/US11972859B2",
+            "rank": 7,
+            "fetched_date": "2025-07-28T04:06:31.348102"
+          },
+          {
+            "patent_number": "US20220323462A1",
+            "title": " 19-nor c3,3-disubstituted c21-n-pyrazolyl steroid and methods of use thereof",
+            "description": " Provided herein are methods for treating depression, such as postpartum depression or major depressive disorder, in a subject in need thereof, comprising administering to the subject an effective amount of Compound 1 or a pharmaceutically acceptable salt thereof:",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/US20220323462A1",
+            "rank": 8,
+            "fetched_date": "2025-07-28T04:06:31.348104"
+          },
+          {
+            "patent_number": "TWI554271B",
+            "title": " Combination of opioid agonists and opioid antagonists for the treatment of ...",
+            "description": " A pharmaceutical oral dosage form for treating a patient with Parkinson&#39;s disease suffering from exercise difficulties, comprising an opioid agonist or a pharmaceutically acceptable salt thereof and an opioid antagonist or a pharmaceutically acceptable salt thereof Wherein the opiate agonist is ...",
+            "search_term": "digital therapeutic placebo",
+            "google_link": "https://patents.google.com/patent/TWI554271B",
+            "rank": 9,
+            "fetched_date": "2025-07-28T04:06:31.348106"
+          }
+        ]
+      },
+      "app-based placebo": {
+        "total_results": 182028,
+        "patents_retrieved": 10,
+        "patents": [
+          {
+            "patent_number": "CN108883126B",
+            "title": " Use and monitoring of inhaled nitric oxide with left ventricular assist device",
+            "description": " Systems and methods for administering nitric oxide (NO) while using a left ventricular assist device (LVAD), as well as systems and methods for monitoring a NO delivery device and/or the LVAD are described.",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/CN108883126B",
+            "rank": 0,
+            "fetched_date": "2025-07-28T04:06:33.679045"
+          },
+          {
+            "patent_number": "JP2022109989A",
+            "title": " Methods for the treatment of abnormal involuntary movement disorders",
+            "description": " PROBLEM TO BE SOLVED: To provide improved compositions, dosing regimens, and methods for the treatment of abnormal muscular activity, abnormal involuntary movement and other related disorders. SOLUTION: The foregoing problem is solved by deutetrabenazine, or a composition comprising ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/JP2022109989A",
+            "rank": 1,
+            "fetched_date": "2025-07-28T04:06:33.679058"
+          },
+          {
+            "patent_number": "KR102751938B1",
+            "title": " Uses of Cyclic Peptides in Cosmetics",
+            "description": " At least one cyclic peptide is used as an active ingredient in a non-therapeutic cosmetic treatment of the skin and/or its appendages, said cyclic peptide consisting of at least 5 amino acids comprising at least one proline (Pro) and at least one two phenylalanine (Phe), wherein the other amino ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/KR102751938B1",
+            "rank": 2,
+            "fetched_date": "2025-07-28T04:06:33.679060"
+          },
+          {
+            "patent_number": "JP2023052457A",
+            "title": " Methods for treating or preventing asthma by administering an IL-4R antagonist",
+            "description": " PROBLEM TO BE SOLVED: To provide methods for treating or preventing asthma and associated conditions in a patient. SOLUTION: Provided is a method for reducing the incidence of one or more asthma exacerbations in a subject in need thereof comprising administering to the subject a therapeutically ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/JP2023052457A",
+            "rank": 3,
+            "fetched_date": "2025-07-28T04:06:33.679062"
+          },
+          {
+            "patent_number": "US12002553B2",
+            "title": " Systems and methods for designing clinical trials",
+            "description": " A method for enrolling patient candidates in a clinical trial includes generating first prediction data indicating predicted progression of a condition for a first group of patients that participated in a first clinical trial using a predictive model and clinical data associated with the first ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/US12002553B2",
+            "rank": 4,
+            "fetched_date": "2025-07-28T04:06:33.679064"
+          },
+          {
+            "patent_number": "KR102613281B1",
+            "title": " Bioceramic compositions and biomodulatory uses thereof",
+            "description": " The subject matter described in this application relates to articles, compositions, systems, and methods of using and making bioceramic compositions, and relates to bioceramic compositions. Bioceramic compositions of the present disclosure emit infrared energy or infrared light and can be used to ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/KR102613281B1",
+            "rank": 5,
+            "fetched_date": "2025-07-28T04:06:33.679066"
+          },
+          {
+            "patent_number": "US20220005554A1",
+            "title": " Parameterized template for clinical research study systems",
+            "description": " Techniques are disclosed for digitizing a framework for clinical development. In one example, A computing device comprising a memory configured to store a regulatory database, and one or more processors may be configured to perform the techniques. The one or more processors may retrieve, from the ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/US20220005554A1",
+            "rank": 6,
+            "fetched_date": "2025-07-28T04:06:33.679068"
+          },
+          {
+            "patent_number": "JP2023052458A",
+            "title": " Methods for treating chronic sinusitis with nasal polyps by administering il-4r ...",
+            "description": " A pharmaceutical composition for use in reducing nasal polyp score (NPS) in a subject in need thereof. A pharmaceutical composition comprising an antibody or antigen-binding fragment thereof that specifically binds to interleukin-4 receptor (IL-4R), for administration to a subject with determined ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/JP2023052458A",
+            "rank": 7,
+            "fetched_date": "2025-07-28T04:06:33.679069"
+          },
+          {
+            "patent_number": "RU2730625C2",
+            "title": " Vaccine compositions characterized by improved stability and immunogenicity",
+            "description": " FIELD: biotechnology. SUBSTANCE: described is a group of inventions comprising a vaccine composition for inducing a protective immune response to a virus and a method of preventing a viral infection involving administering a vaccine composition, where the virus is selected from a group consisting ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/RU2730625C2",
+            "rank": 8,
+            "fetched_date": "2025-07-28T04:06:33.679071"
+          },
+          {
+            "patent_number": "JP6392422B2",
+            "title": " Monovalent metal cation dry powder for inhalation",
+            "description": " A respirable dry powder comprising respirable dry particles, wherein the respirable dry particles are: a) one or more monovalent metal cation salts, wherein the one or more monovalent metal cation salts are present in an amount of at least about 3% by weight of the dry particles, and b) a ...",
+            "search_term": "app-based placebo",
+            "google_link": "https://patents.google.com/patent/JP6392422B2",
+            "rank": 9,
+            "fetched_date": "2025-07-28T04:06:33.679078"
+          }
+        ]
+      },
+      "digital expectation therapy": {
+        "total_results": 155312,
+        "patents_retrieved": 10,
+        "patents": [
+          {
+            "patent_number": "US20210244941A1",
+            "title": " Methods and apparatus for a wearable electronic digital therapeutic device",
+            "description": " A wearable electronic therapeutic device has one or more biometric detectors each for detecting one or more biometric parameters. The biometric parameters are dependent on at least one physiological change to a patient in response to a therapeutic treatment. A microprocessor receives the one or ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/US20210244941A1",
+            "rank": 0,
+            "fetched_date": "2025-07-28T04:06:34.704605"
+          },
+          {
+            "patent_number": "US20230395235A1",
+            "title": " System and Method for Delivering Personalized Cognitive Intervention",
+            "description": " A computational personalized cognitive therapeutic system for treating patients with Mild Cognitive Impairment, Alzheimer&#39;s Disease, dementia and related conditions is described. The system includes a patient clinical database, a data aggregation layer and data pre-processor module, a digital ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/US20230395235A1",
+            "rank": 1,
+            "fetched_date": "2025-07-28T04:06:34.704619"
+          },
+          {
+            "patent_number": "JP6329121B2",
+            "title": " Method performed by a robot system including a mobile robot",
+            "description": " A mobile robot guest for interacting with a human resident performs a room-traversing search procedure prior to interacting with the resident, and may verbally query whether the resident being sought is present. Upon finding the resident, the mobile robot may facilitate a teleconferencing session ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/JP6329121B2",
+            "rank": 2,
+            "fetched_date": "2025-07-28T04:06:34.704623"
+          },
+          {
+            "patent_number": "US11295841B2",
+            "title": " Unsupervised learning and prediction of lines of therapy from high-dimensional ...",
+            "description": " In one aspect, the present disclosure provides a method for labeling one or more medications concurrently administered to a patient as a line of therapy. The method includes identifying medical records of the patient from a plurality of digital records, creating, from the subset of medical records ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/US11295841B2",
+            "rank": 3,
+            "fetched_date": "2025-07-28T04:06:34.704625"
+          },
+          {
+            "patent_number": "US20190019581A1",
+            "title": " Platform and system for digital personalized medicine",
+            "description": " The methods and apparatus disclosed herein provide digital diagnostics and digital therapeutics to patients. The digital personalized medicine system uses digital data to assess or diagnose symptoms of a patient, and feedback from the patient response to treatment is considered to update the ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/US20190019581A1",
+            "rank": 4,
+            "fetched_date": "2025-07-28T04:06:34.704627"
+          },
+          {
+            "patent_number": "US10984899B2",
+            "title": " Platform and system for digital personalized medicine",
+            "description": " The digital personalized medicine system uses digital data to assess or diagnose symptoms of a subject to provide personalized or more appropriate therapeutic interventions and improved diagnoses. The use of prioritized questions and answers with associated feature importance can be used to assess ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/US10984899B2",
+            "rank": 5,
+            "fetched_date": "2025-07-28T04:06:34.704629"
+          },
+          {
+            "patent_number": "KR102785528B1",
+            "title": " Personalized digital therapy methods and devices",
+            "description": " The platforms, systems, devices, methods, and media disclosed herein can assess subjects for a developmental state or conditions and provide improved digital therapeutics. The platforms, systems, devices, methods, and media disclosed herein can be configured to improve a developmental state or ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/KR102785528B1",
+            "rank": 6,
+            "fetched_date": "2025-07-28T04:06:34.704631"
+          },
+          {
+            "patent_number": "US12205725B2",
+            "title": " Methods and apparatus for evaluating developmental conditions and providing ...",
+            "description": " The methods and apparatus disclosed herein can evaluate a subject for a developmental condition or conditions and provide improved sensitivity and specificity for categorical determinations indicating the presence or absence of the developmental condition by isolating hard-to-screen cases as ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/US12205725B2",
+            "rank": 7,
+            "fetched_date": "2025-07-28T04:06:34.704633"
+          },
+          {
+            "patent_number": "US20220392611A1",
+            "title": " System, methods, and apparatuses for managing data for artificial intelligence ...",
+            "description": " Disclosed herein are systems and methods of a digital therapy service to generate therapy regimen addressing a health condition, which may require the customer to perform various tasks and instruct devices to capture data related to the customer&#39;s therapy, including body metric measurements and ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/US20220392611A1",
+            "rank": 8,
+            "fetched_date": "2025-07-28T04:06:34.704635"
+          },
+          {
+            "patent_number": "CN112739287B",
+            "title": " Providing a simulated effect of a dental treatment of a patient",
+            "description": " Systems and methods of simulating dental treatment are disclosed. A method may include: capturing a first 2D image of a patient&#39;s face including the patient&#39;s teeth; constructing a parameterized 3D model of the patient&#39;s teeth based on the 2D images; generating a simulated effect of the dental ...",
+            "search_term": "digital expectation therapy",
+            "google_link": "https://patents.google.com/patent/CN112739287B",
+            "rank": 9,
+            "fetched_date": "2025-07-28T04:06:34.704636"
+          }
+        ]
+      },
+      "software placebo intervention": {
+        "total_results": 174248,
+        "patents_retrieved": 10,
+        "patents": [
+          {
+            "patent_number": "JP5885457B2",
+            "title": " Immunoglobulin variants and their use and use",
+            "description": " SEQ ID NO: 39 the heavy chain sequence and SEQ ID NO: in the light chain sequence of 40, N100A in V H, comprising an amino acid sequence comprising the amino acid substitutions S298A / E333A / K334A in the M32L and Fc region of V L, human CD20 A humanized antibody or antigen-binding fragment ...",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/JP5885457B2",
+            "rank": 0,
+            "fetched_date": "2025-07-28T04:06:36.505788"
+          },
+          {
+            "patent_number": "AU2017218391B2",
+            "title": " Use and monitoring of inhaled nitric oxide with left ventricular assist devices",
+            "description": " Described are systems and methods for administration of nitric oxide (NO) with use of left ventricular assists devices (LVADs), as well as systems and methods for monitoring the NO delivery devices and/or the LVAD.",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/AU2017218391B2",
+            "rank": 1,
+            "fetched_date": "2025-07-28T04:06:36.505801"
+          },
+          {
+            "patent_number": "US9694155B2",
+            "title": " Adjuvant method for the interface of psychosomatic approaches and technology ...",
+            "description": " A method to induce an immediate psychosomatic change in a patient optimal for a particular medical procedure, is provided. The method uses a brain-computer interface integrating a loop of biofeedback and neurofeedback components, interactive, immersive, 3D virtual reality (VR) modules utilizing ...",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/US9694155B2",
+            "rank": 2,
+            "fetched_date": "2025-07-28T04:06:36.505805"
+          },
+          {
+            "patent_number": "TWI848773B",
+            "title": " Methods of treating obesity, overweight condition, central adiposity and ...",
+            "description": " The present invention relates to myostatin or activin antagonists or receptor antagonists for use in improving body composition, e.g., for the treatment of central adiposity, obesity or overweight condition and related comorbidities. The present invention also relates to myostatin or activin ...",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/TWI848773B",
+            "rank": 3,
+            "fetched_date": "2025-07-28T04:06:36.505807"
+          },
+          {
+            "patent_number": "US11883669B2",
+            "title": " Therapy adjustment",
+            "description": " An indication that a patient event occurred may be used to evaluate the efficacy of at least one therapy program and/or adjust therapy delivery to the patient. In some examples, the patient event indication includes patient input that may be received via an event indication button of a programming ...",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/US11883669B2",
+            "rank": 4,
+            "fetched_date": "2025-07-28T04:06:36.505809"
+          },
+          {
+            "patent_number": "JP5824011B2",
+            "title": " System and method for generating time slot samples to which content can be ...",
+            "description": " A computer-implemented method for displaying content on a digital signage network having a plurality of displays at one or more locations, wherein the method is executed on a computer system having one or more processors. Determining a duration for which the computer system displays content based ...",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/JP5824011B2",
+            "rank": 5,
+            "fetched_date": "2025-07-28T04:06:36.505812"
+          },
+          {
+            "patent_number": "JP7153775B2",
+            "title": " Prediction of clinical response to IL23 antagonists using IL23 pathway ...",
+            "description": " For use of interleukin-22 (IL22) and/or lipokine 2 (LCN2) in a method of determining whether to treat a patient with an interleukin-23 (IL23) mediated disease with an IL23 antagonist. There is The method comprises: (i) a level of C-reactive protein (CRP) of at least 5 mg/L and/or a level of fecal ...",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/JP7153775B2",
+            "rank": 6,
+            "fetched_date": "2025-07-28T04:06:36.505813"
+          },
+          {
+            "patent_number": "US20220323462A1",
+            "title": " 19-nor c3,3-disubstituted c21-n-pyrazolyl steroid and methods of use thereof",
+            "description": " Provided herein are methods for treating depression, such as postpartum depression or major depressive disorder, in a subject in need thereof, comprising administering to the subject an effective amount of Compound 1 or a pharmaceutically acceptable salt thereof:",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/US20220323462A1",
+            "rank": 7,
+            "fetched_date": "2025-07-28T04:06:36.505815"
+          },
+          {
+            "patent_number": "RU2750554C2",
+            "title": " Artificial intelligence based computer security system",
+            "description": " FIELD: computer security. SUBSTANCE: invention relates to the field of computer security. The artificial intelligence based computer security system is equipped with memory and a processor interfaced with memory, and this computer security system also includes active protection of critical ...",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/RU2750554C2",
+            "rank": 8,
+            "fetched_date": "2025-07-28T04:06:36.505818"
+          },
+          {
+            "patent_number": "US11564635B1",
+            "title": " System and method for physiological health simulation",
+            "description": " Systems and methods for health and body simulations in order to predict numerous physiological parameters in a subject or a population of subjects based on the input of limited physiological data.",
+            "search_term": "software placebo intervention",
+            "google_link": "https://patents.google.com/patent/US11564635B1",
+            "rank": 9,
+            "fetched_date": "2025-07-28T04:06:36.505819"
+          }
+        ]
+      },
+      "digital psychological intervention": {
+        "total_results": 112262,
+        "patents_retrieved": 10,
+        "patents": [
+          {
+            "patent_number": "US20220028529A1",
+            "title": " Methods and systems for treating gastrointestinal and inflammatory health ...",
+            "description": " A prescription digital therapeutic (PDT) system is provided to patients/users suffering from gastrointestinal (GI) and/or inflammatory health conditions, wherein the PDT system allows guided behavioral therapy and skills training to be administered in a convenient and flexible, yet structured ...",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/US20220028529A1",
+            "rank": 0,
+            "fetched_date": "2025-07-28T04:06:37.407467"
+          },
+          {
+            "patent_number": "CN109243605B",
+            "title": " Mental disorder diagnosis and treatment system based on artificial intelligence",
+            "description": " The invention provides a mental disorder diagnosis and treatment system based on artificial intelligence, which comprises a patient end system, a therapist end system and an intelligent auxiliary system; the patient end system collects patient information and sends the patient information to the ...",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/CN109243605B",
+            "rank": 1,
+            "fetched_date": "2025-07-28T04:06:37.407479"
+          },
+          {
+            "patent_number": "US10265028B2",
+            "title": " Method and system for modeling behavior and heart disease state",
+            "description": " A method for evaluating cardiovascular health of a patient includes receiving a log of use dataset associated with patient digital communication behavior at a mobile computing device, wherein the log of use dataset is associated with a time period, receiving a supplementary dataset associated with ...",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/US10265028B2",
+            "rank": 2,
+            "fetched_date": "2025-07-28T04:06:37.407481"
+          },
+          {
+            "patent_number": "JP2022009339A",
+            "title": " Platforms and systems for digital personalized medicine",
+            "description": " The inventions described herein.",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/JP2022009339A",
+            "rank": 3,
+            "fetched_date": "2025-07-28T04:06:37.407482"
+          },
+          {
+            "patent_number": "US20210391083A1",
+            "title": " Method for providing health therapeutic interventions to a user",
+            "description": " CROSS-REFERENCE TO RELATED APPLICATIONS This application is a continuation-in-part of U.S. application Ser. No. 15/265,454, filed 14 Sep. 2016, which claims the benefit of U.S. Provisional Application No. 62/218,848 filed 15 Sep. 2015, and which is a continuation-in-part of U.S. application Ser.",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/US20210391083A1",
+            "rank": 4,
+            "fetched_date": "2025-07-28T04:06:37.407484"
+          },
+          {
+            "patent_number": "US11704582B1",
+            "title": " Machine learning to identify individuals for a therapeutic intervention ...",
+            "description": " Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, for using machine learning to generate precision predictions of readiness. In some implementations, a database is accessed to obtain status data that indicates activities or attributes of a subject.",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/US11704582B1",
+            "rank": 5,
+            "fetched_date": "2025-07-28T04:06:37.407486"
+          },
+          {
+            "patent_number": "US11917250B1",
+            "title": " Audiovisual content selection",
+            "description": " Systems and techniques are disclosed for aspects of audiovisual content selection based on collecting and processing physiological data. In an example, a system comprises: a sensor device with at one physiological sensor to capture physiological data from a human subject; an output device with a ...",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/US11917250B1",
+            "rank": 6,
+            "fetched_date": "2025-07-28T04:06:37.407488"
+          },
+          {
+            "patent_number": "US20250216389A1",
+            "title": " System for Assessing Global Wellness",
+            "description": " A system and method for assessing global wellness and developing a maintenance/treatment program are provided, wherein a plurality of data sources are compiled, including, at minimum (a) a subject&#39;s medical, dental and family histories, and (b) a body fluid sample (e.g. an oral swab or saliva) for ...",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/US20250216389A1",
+            "rank": 7,
+            "fetched_date": "2025-07-28T04:06:37.407490"
+          },
+          {
+            "patent_number": "US20220110563A1",
+            "title": " Dynamic interaction system and method",
+            "description": " A method and system are provided for dynamic user interaction. The method includes assessing input data, received from a user, that is used to determine a psychological state of the user. The method further includes determining a current psychological state of the user, using an application stored ...",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/US20220110563A1",
+            "rank": 8,
+            "fetched_date": "2025-07-28T04:06:37.407491"
+          },
+          {
+            "patent_number": "US20200118164A1",
+            "title": " Integrated mobile device management system",
+            "description": " The embodiments disclose an integrated mobile device management method including using an integrated mobile device management service provider digital programmable server and database server for coordinating processing with device issuer locked devices with functionalities specifically targeted ...",
+            "search_term": "digital psychological intervention",
+            "google_link": "https://patents.google.com/patent/US20200118164A1",
+            "rank": 9,
+            "fetched_date": "2025-07-28T04:06:37.407493"
+          }
+        ]
+      },
+      "virtual therapeutic presence": {
+        "total_results": 185823,
+        "patents_retrieved": 10,
+        "patents": [
+          {
+            "patent_number": "US7226912B2",
+            "title": " Hepatitis C virus non-structural NS3/4A fusion gene",
+            "description": " Disclosed herein is the discovery of a novel hepatitis C virus (HCV) isolated from a human patient. Embodiments of the invention include HCV peptides, nucleic acids encoding said HCV peptides, antibodies directed to said peptides, compositions containing said nucleic acids and peptides, as well as ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/US7226912B2",
+            "rank": 0,
+            "fetched_date": "2025-07-28T04:06:38.945948"
+          },
+          {
+            "patent_number": "JP2024056708A",
+            "title": " Use of chimeric antigen receptor modified T cells to treat cancer",
+            "description": " The present invention provides compositions and methods for treating cancer in humans, comprising administering T cells genetically modified to express a chimeric antigen receptor (CAR), the CAR comprising an antigen-binding domain, a transmembrane domain, a costimulatory signaling region, and a ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/JP2024056708A",
+            "rank": 1,
+            "fetched_date": "2025-07-28T04:06:38.945963"
+          },
+          {
+            "patent_number": "US8935006B2",
+            "title": " Companion robot for personal interaction",
+            "description": " A mobile robot guest for interacting with a human resident performs a room-traversing search procedure prior to interacting with the resident, and may verbally query whether the resident being sought is present. Upon finding the resident, the mobile robot may facilitate a teleconferencing session ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/US8935006B2",
+            "rank": 2,
+            "fetched_date": "2025-07-28T04:06:38.945966"
+          },
+          {
+            "patent_number": "US10564423B2",
+            "title": " Augmented and virtual reality display systems and methods for delivery of ...",
+            "description": " Configurations are disclosed for a health system to be used in various healthcare applications, e.g., for patient diagnostics, monitoring, and/or therapy. The health system may comprise a light generation module to transmit light or an image to a user, one or more sensors to detect a physiological ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/US10564423B2",
+            "rank": 3,
+            "fetched_date": "2025-07-28T04:06:38.945968"
+          },
+          {
+            "patent_number": "JP5952008B2",
+            "title": " Control method and apparatus for energy delivery",
+            "description": " An energy delivery and tracking system configured to deliver energy to an airway in the lung to treat an airway disease, the system comprising: An axis having a proximal end and a distal end; An expandable member including a radio frequency electrode, the expandable member disposed at the distal ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/JP5952008B2",
+            "rank": 4,
+            "fetched_date": "2025-07-28T04:06:38.945970"
+          },
+          {
+            "patent_number": "JP7289540B2",
+            "title": " virtual reality device",
+            "description": " Enables device control via a device user interface that is head-mountable to the wearer and accessible to an operator other than the wearer, allowing the operator to calibrate and calibrate the device while the device is being worn by the wearer. operable to control initiation of a virtual reality ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/JP7289540B2",
+            "rank": 5,
+            "fetched_date": "2025-07-28T04:06:38.945972"
+          },
+          {
+            "patent_number": "US12336804B2",
+            "title": " System and method for diagnosing and treating biological rhythm disorders",
+            "description": " A heart treatment system is disclosed capable of diagnosing one or more critical regions of interest for a biological rhythm disorder by sensing signals from biological tissue. If a critical region is not present at the current location of sensed signals, the system is capable of indicating a ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/US12336804B2",
+            "rank": 6,
+            "fetched_date": "2025-07-28T04:06:38.945974"
+          },
+          {
+            "patent_number": "JP7491943B2",
+            "title": " Personalized digital therapeutic method and device",
+            "description": " 1. A device for assessing an individual for a behavioral disorder, developmental delay, or neurological disorder and providing treatment to said individual, comprising: The device comprises: A processor; and a non-transitory computer-readable medium storing a computer program, the computer program ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/JP7491943B2",
+            "rank": 7,
+            "fetched_date": "2025-07-28T04:06:38.945976"
+          },
+          {
+            "patent_number": "CA3080600C",
+            "title": " Mobile wearable monitoring systems",
+            "description": " 351 1. An apparatus for determining and monitoring neurological or muscular disorders of a subject, comprising: at least one electromyographic (EMG) sensor applied to the subject and acquiring EMG signals; gait sensors acquiring gait signals of the subject; a processor processing the EMG signals to:",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/CA3080600C",
+            "rank": 8,
+            "fetched_date": "2025-07-28T04:06:38.945978"
+          },
+          {
+            "patent_number": "JP7021110B2",
+            "title": " Augmented reality systems and methods for user health analysis",
+            "description": " It \u2019s a display system. A display device configured to present virtual content to a user, said display device comprising a waveguide stack comprising a plurality of waveguides, one or more of the plurality of waveguides. The waveguide is composed of a display device configured to output light with ...",
+            "search_term": "virtual therapeutic presence",
+            "google_link": "https://patents.google.com/patent/JP7021110B2",
+            "rank": 9,
+            "fetched_date": "2025-07-28T04:06:38.945981"
+          }
+        ]
+      }
+    }
+  },
+  "patents": [
+    {
+      "patent_number": "US11972859B2",
+      "title": " Computational pathology approach for retrospective analysis of tissue-based ...",
+      "description": " Automated systems and methods are presented for retrospectively analyzing clinical trial data. A plurality of image derived from biological samples of patients in a cohort population are accessed. Image features are computed based on the plurality of images. A diagnostic feature metric is derived ...",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/US11972859B2",
+      "rank": 0,
+      "fetched_date": "2025-07-28T04:06:29.152094"
+    },
+    {
+      "patent_number": "AU2022203142B2",
+      "title": " Tolerogenic synthetic nanocarriers and therapeutic macromolecules for reduced ...",
+      "description": " Disclosed are compositions and methods that provide pharmacodynamic effects specific to therapeutic macromolecules. The effects may result from reduced doses of therapeutic macromolecules in combination with immunosuppressant doses. The effects may also be enhanced with such compositions.",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/AU2022203142B2",
+      "rank": 1,
+      "fetched_date": "2025-07-28T04:06:29.152123"
+    },
+    {
+      "patent_number": "AU2017208170B2",
+      "title": " Method and system for controlling the delivery of active agents",
+      "description": " Systems and methods for analyzing and/or using information collected from a plurality of users in conjunction with the use of delivery devices for active agents are described. In some embodiments, the delivery device comprises an inhaler device. In some embodiments, the information collecting ...",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/AU2017208170B2",
+      "rank": 2,
+      "fetched_date": "2025-07-28T04:06:29.152127"
+    },
+    {
+      "patent_number": "US10806942B2",
+      "title": " System and method for applying a low frequency magnetic field to biological ...",
+      "description": " A system and method for applying a low strength, low frequency magnetic field therapy to biological tissues. A coil is excited with a low frequency oscillating current, e.g., 10-1000 Hz. The coil is, e.g., 5-200 turns, having a diameter of 2-20 mm, and produces a magnetic field strength of about ...",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/US10806942B2",
+      "rank": 3,
+      "fetched_date": "2025-07-28T04:06:29.152133"
+    },
+    {
+      "patent_number": "AU2022202786A1",
+      "title": " Computer security based on artificial intelligence",
+      "description": " Computer Security System Based On Artificial Intelligence includes Critical Infrastructure Protection & Retribution (CIPR) through Cloud & Tiered Information Security (CTIS), Machine Clandestine Intelligence (MACINT) & Retribution through Covert Operations in Cyberspace, Logically Inferred Zero- ...",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/AU2022202786A1",
+      "rank": 4,
+      "fetched_date": "2025-07-28T04:06:29.152137"
+    },
+    {
+      "patent_number": "US10702577B2",
+      "title": " Combination therapies using cyclosporine and aromatic cationic peptides",
+      "description": " The invention provides compositions and methods for preventing or treating an ischemia-reperfusion injury, such as occurs during acute myocardial infarction and organ transplant in a mammalian subject. The methods comprise administering to the subject an effective amount of an aromatic-cationic ...",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/US10702577B2",
+      "rank": 5,
+      "fetched_date": "2025-07-28T04:06:29.152139"
+    },
+    {
+      "patent_number": "US10769495B2",
+      "title": " Collecting multimodal image editing requests",
+      "description": " In implementations of collecting multimodal image editing requests (IERs), a user interface is generated that exposes an image pair including a first image and a second image including at least one edit to the first image. A user simultaneously speaks a voice command and performs a user gesture ...",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/US10769495B2",
+      "rank": 6,
+      "fetched_date": "2025-07-28T04:06:29.152140"
+    },
+    {
+      "patent_number": "US20190308015A1",
+      "title": " Methods and devices for treating the skin",
+      "description": " An apparatus includes multiple first reservoirs and multiple second reservoirs joined with a substrate. Selected ones of the multiple first reservoirs include a reducing agent, and first reservoir surfaces of selected ones of the multiple first reservoirs are proximate to a first substrate surface ...",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/US20190308015A1",
+      "rank": 7,
+      "fetched_date": "2025-07-28T04:06:29.152142"
+    },
+    {
+      "patent_number": "US20220323462A1",
+      "title": " 19-nor c3,3-disubstituted c21-n-pyrazolyl steroid and methods of use thereof",
+      "description": " Provided herein are methods for treating depression, such as postpartum depression or major depressive disorder, in a subject in need thereof, comprising administering to the subject an effective amount of Compound 1 or a pharmaceutically acceptable salt thereof:",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/US20220323462A1",
+      "rank": 8,
+      "fetched_date": "2025-07-28T04:06:29.152144"
+    },
+    {
+      "patent_number": "US20220133891A1",
+      "title": " Hemostatic microspheres",
+      "description": " Provided herein are hemostatic compositions. In one embodiment, the hemostatic composition includes cross-linked polymer microspheres, such as cross-linked gelatin microspheres with pores. In another embodiment, the hemostatic composition comprises an additive such as a wetting agent, a suspending ...",
+      "search_term": "digital placebo",
+      "google_link": "https://patents.google.com/patent/US20220133891A1",
+      "rank": 9,
+      "fetched_date": "2025-07-28T04:06:29.152150"
+    },
+    {
+      "patent_number": "US9694155B2",
+      "title": " Adjuvant method for the interface of psychosomatic approaches and technology ...",
+      "description": " A method to induce an immediate psychosomatic change in a patient optimal for a particular medical procedure, is provided. The method uses a brain-computer interface integrating a loop of biofeedback and neurofeedback components, interactive, immersive, 3D virtual reality (VR) modules utilizing ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/US9694155B2",
+      "rank": 0,
+      "fetched_date": "2025-07-28T04:06:30.141871"
+    },
+    {
+      "patent_number": "US11887738B2",
+      "title": " Platforms for conducting virtual trials",
+      "description": " The present disclosure provides platforms, systems, media, and methods for capturing clinical cases and expert-derived treatment rationales to facilitate biomedical decision making, which can include virtual clinical trials that continuously learn from the experiences of all patients, on all ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/US11887738B2",
+      "rank": 1,
+      "fetched_date": "2025-07-28T04:06:30.141882"
+    },
+    {
+      "patent_number": "RU2750554C2",
+      "title": " Artificial intelligence based computer security system",
+      "description": " FIELD: computer security. SUBSTANCE: invention relates to the field of computer security. The artificial intelligence based computer security system is equipped with memory and a processor interfaced with memory, and this computer security system also includes active protection of critical ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/RU2750554C2",
+      "rank": 2,
+      "fetched_date": "2025-07-28T04:06:30.141886"
+    },
+    {
+      "patent_number": "JP7547326B2",
+      "title": " System and method for designing clinical trials",
+      "description": " 1. A computer implemented method for enrolling potential patients in a clinical trial for a treatment, comprising: generating first predictive data indicative of a predicted progression of a condition for a first group of patients participating in a first clinical trial using a predictive model ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/JP7547326B2",
+      "rank": 3,
+      "fetched_date": "2025-07-28T04:06:30.141888"
+    },
+    {
+      "patent_number": "JP2025036703A",
+      "title": " Methods for Treating Anxiety Disorders, Headache Disorders, and Eating ...",
+      "description": " The invention described herein.",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/JP2025036703A",
+      "rank": 4,
+      "fetched_date": "2025-07-28T04:06:30.141890"
+    },
+    {
+      "patent_number": "US20210225463A1",
+      "title": " System and Method with Federated Learning Model for Medical Research ...",
+      "description": " The technology disclosed relates to a system and method of conducting virtual clinical trials. The system comprises a sponsor server configured to specify a target mapping of a clinical trial objective mapper. The target mapping maps participant-specific clinical data to an objective of a virtual ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/US20210225463A1",
+      "rank": 5,
+      "fetched_date": "2025-07-28T04:06:30.141892"
+    },
+    {
+      "patent_number": "AU2023222823A1",
+      "title": " Methods of enhancing cognition and systems for practicing the same",
+      "description": " Provided are methods that include presenting to a subject an embodied cognitive task that includes a cognitive component and a physical component. The methods further include assessing the subject&#39;s performance on each of the cognitive component and the physical component, and adapting the ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/AU2023222823A1",
+      "rank": 6,
+      "fetched_date": "2025-07-28T04:06:30.141894"
+    },
+    {
+      "patent_number": "JP6675974B2",
+      "title": " Nasal administration",
+      "description": " A therapeutic agent comprising fluticasone for therapeutically treating a nasal polyp in a patient, comprising: The therapeutic agent is delivered and administered twice daily in an amount of 100 \u03bcg to 400 \u03bcg by a delivery device comprising a mouthpiece and a nosepiece in a first step; and In a ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/JP6675974B2",
+      "rank": 7,
+      "fetched_date": "2025-07-28T04:06:30.141897"
+    },
+    {
+      "patent_number": "US11672779B2",
+      "title": " Modulators of GTPases and their use",
+      "description": " The present invention relates to molecules which function as modulators (i.e., inhibitors and agonists) of the Ras-homologous (Rho) family of small GTPases (e.g. Rac, Cdc42 and Rho GTPases) and their use to treat diseases, including cancers (including solid tumors-medulloblastoma, ovarian, breast, ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/US11672779B2",
+      "rank": 8,
+      "fetched_date": "2025-07-28T04:06:30.141899"
+    },
+    {
+      "patent_number": "US9381243B2",
+      "title": " Methods of identifying critically ill patients at increased risk of development ...",
+      "description": " The present invention relates to compounds for treatment that protects the endothelium, prevents pathologic thrombus formation in the microcirculation and preserves platelet number and function and thus may be related to minimizing or preventing development of organ failure, including multiple ...",
+      "search_term": "virtual placebo",
+      "google_link": "https://patents.google.com/patent/US9381243B2",
+      "rank": 9,
+      "fetched_date": "2025-07-28T04:06:30.141901"
+    },
+    {
+      "patent_number": "WO2011152652A2",
+      "title": " Aceclofenac slow-release preparation providing an optimum pharmacological ...",
+      "description": " The present invention relates to a controlled-release preparation administered orally once a day that exhibits an optimum pharmacological clinical effect, featuring two-layer tablets, dual tablets and multilayered tablets having a fast-release layer comprising aceclofenac, a water-soluble additive ...",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/WO2011152652A2",
+      "rank": 0,
+      "fetched_date": "2025-07-28T04:06:31.348080"
+    },
+    {
+      "patent_number": "WO2023149642A1",
+      "title": " Sustained-release multilayer tablet comprising ticagrelor or pharmaceutically ...",
+      "description": " The present invention relates to a sustained-release multilayer tablet comprising ticagrelor or a pharmaceutically acceptable salt thereof as an active ingredient, and a method for preparing same. When the tablet is administered orally, once a day, ticagrelor or a pharmaceutically acceptable salt ...",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/WO2023149642A1",
+      "rank": 1,
+      "fetched_date": "2025-07-28T04:06:31.348090"
+    },
+    {
+      "patent_number": "WO2025042927A3",
+      "title": " Sustained-release formulations for poorly permeable cyclic peptides",
+      "description": " The present disclosure provides orally administered pharmaceutical compositions that are effective in providing sustained plasma levels of a therapeutic peptide in a subject. The disclosed compositions are oral dosage forms comprising a large and/or poorly permeable cyclic peptide, a fatty acid ...",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/WO2025042927A3",
+      "rank": 2,
+      "fetched_date": "2025-07-28T04:06:31.348093"
+    },
+    {
+      "patent_number": "CN102770120A",
+      "title": " Compositions and methods for mild sedation, anxiolysis and analgesia in the ...",
+      "description": " Small tablets for use in procedural sedation, anxiolysis and analgesia comprising the combination sufentanil and triazolam administered via the oral transmucosal route and methods for using the same are provided.",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/CN102770120A",
+      "rank": 3,
+      "fetched_date": "2025-07-28T04:06:31.348094"
+    },
+    {
+      "patent_number": "JP2013040175A",
+      "title": " Solid composition and method for treating middle-of-the-night insomnia",
+      "description": " PROBLEM TO BE SOLVED: To provide a pharmaceutical composition for treating middle-of-the-night (MOTN) insomnia, and a method for using the composition.SOLUTION: The invention provides a solid pharmaceutical composition including zolpidem, serving as sedative-hypnotics, or a salt thereof; and a ...",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/JP2013040175A",
+      "rank": 4,
+      "fetched_date": "2025-07-28T04:06:31.348096"
+    },
+    {
+      "patent_number": "US10434088B2",
+      "title": " Methods related to administering immunosuppressants and therapeutic ...",
+      "description": " Disclosed are compositions and methods that provide pharmacodynamic effects specific to therapeutic macromolecules. The effects may result from reduced doses of therapeutic macromolecules in combination with immunosuppressant doses. The effects may also be enhanced with such compositions.",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/US10434088B2",
+      "rank": 5,
+      "fetched_date": "2025-07-28T04:06:31.348098"
+    },
+    {
+      "patent_number": "US10806942B2",
+      "title": " System and method for applying a low frequency magnetic field to biological ...",
+      "description": " A system and method for applying a low strength, low frequency magnetic field therapy to biological tissues. A coil is excited with a low frequency oscillating current, e.g., 10-1000 Hz. The coil is, e.g., 5-200 turns, having a diameter of 2-20 mm, and produces a magnetic field strength of about ...",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/US10806942B2",
+      "rank": 6,
+      "fetched_date": "2025-07-28T04:06:31.348101"
+    },
+    {
+      "patent_number": "US11972859B2",
+      "title": " Computational pathology approach for retrospective analysis of tissue-based ...",
+      "description": " Automated systems and methods are presented for retrospectively analyzing clinical trial data. A plurality of image derived from biological samples of patients in a cohort population are accessed. Image features are computed based on the plurality of images. A diagnostic feature metric is derived ...",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/US11972859B2",
+      "rank": 7,
+      "fetched_date": "2025-07-28T04:06:31.348102"
+    },
+    {
+      "patent_number": "US20220323462A1",
+      "title": " 19-nor c3,3-disubstituted c21-n-pyrazolyl steroid and methods of use thereof",
+      "description": " Provided herein are methods for treating depression, such as postpartum depression or major depressive disorder, in a subject in need thereof, comprising administering to the subject an effective amount of Compound 1 or a pharmaceutically acceptable salt thereof:",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/US20220323462A1",
+      "rank": 8,
+      "fetched_date": "2025-07-28T04:06:31.348104"
+    },
+    {
+      "patent_number": "TWI554271B",
+      "title": " Combination of opioid agonists and opioid antagonists for the treatment of ...",
+      "description": " A pharmaceutical oral dosage form for treating a patient with Parkinson&#39;s disease suffering from exercise difficulties, comprising an opioid agonist or a pharmaceutically acceptable salt thereof and an opioid antagonist or a pharmaceutically acceptable salt thereof Wherein the opiate agonist is ...",
+      "search_term": "digital therapeutic placebo",
+      "google_link": "https://patents.google.com/patent/TWI554271B",
+      "rank": 9,
+      "fetched_date": "2025-07-28T04:06:31.348106"
+    },
+    {
+      "patent_number": "CN108883126B",
+      "title": " Use and monitoring of inhaled nitric oxide with left ventricular assist device",
+      "description": " Systems and methods for administering nitric oxide (NO) while using a left ventricular assist device (LVAD), as well as systems and methods for monitoring a NO delivery device and/or the LVAD are described.",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/CN108883126B",
+      "rank": 0,
+      "fetched_date": "2025-07-28T04:06:33.679045"
+    },
+    {
+      "patent_number": "JP2022109989A",
+      "title": " Methods for the treatment of abnormal involuntary movement disorders",
+      "description": " PROBLEM TO BE SOLVED: To provide improved compositions, dosing regimens, and methods for the treatment of abnormal muscular activity, abnormal involuntary movement and other related disorders. SOLUTION: The foregoing problem is solved by deutetrabenazine, or a composition comprising ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/JP2022109989A",
+      "rank": 1,
+      "fetched_date": "2025-07-28T04:06:33.679058"
+    },
+    {
+      "patent_number": "KR102751938B1",
+      "title": " Uses of Cyclic Peptides in Cosmetics",
+      "description": " At least one cyclic peptide is used as an active ingredient in a non-therapeutic cosmetic treatment of the skin and/or its appendages, said cyclic peptide consisting of at least 5 amino acids comprising at least one proline (Pro) and at least one two phenylalanine (Phe), wherein the other amino ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/KR102751938B1",
+      "rank": 2,
+      "fetched_date": "2025-07-28T04:06:33.679060"
+    },
+    {
+      "patent_number": "JP2023052457A",
+      "title": " Methods for treating or preventing asthma by administering an IL-4R antagonist",
+      "description": " PROBLEM TO BE SOLVED: To provide methods for treating or preventing asthma and associated conditions in a patient. SOLUTION: Provided is a method for reducing the incidence of one or more asthma exacerbations in a subject in need thereof comprising administering to the subject a therapeutically ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/JP2023052457A",
+      "rank": 3,
+      "fetched_date": "2025-07-28T04:06:33.679062"
+    },
+    {
+      "patent_number": "US12002553B2",
+      "title": " Systems and methods for designing clinical trials",
+      "description": " A method for enrolling patient candidates in a clinical trial includes generating first prediction data indicating predicted progression of a condition for a first group of patients that participated in a first clinical trial using a predictive model and clinical data associated with the first ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/US12002553B2",
+      "rank": 4,
+      "fetched_date": "2025-07-28T04:06:33.679064"
+    },
+    {
+      "patent_number": "KR102613281B1",
+      "title": " Bioceramic compositions and biomodulatory uses thereof",
+      "description": " The subject matter described in this application relates to articles, compositions, systems, and methods of using and making bioceramic compositions, and relates to bioceramic compositions. Bioceramic compositions of the present disclosure emit infrared energy or infrared light and can be used to ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/KR102613281B1",
+      "rank": 5,
+      "fetched_date": "2025-07-28T04:06:33.679066"
+    },
+    {
+      "patent_number": "US20220005554A1",
+      "title": " Parameterized template for clinical research study systems",
+      "description": " Techniques are disclosed for digitizing a framework for clinical development. In one example, A computing device comprising a memory configured to store a regulatory database, and one or more processors may be configured to perform the techniques. The one or more processors may retrieve, from the ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/US20220005554A1",
+      "rank": 6,
+      "fetched_date": "2025-07-28T04:06:33.679068"
+    },
+    {
+      "patent_number": "JP2023052458A",
+      "title": " Methods for treating chronic sinusitis with nasal polyps by administering il-4r ...",
+      "description": " A pharmaceutical composition for use in reducing nasal polyp score (NPS) in a subject in need thereof. A pharmaceutical composition comprising an antibody or antigen-binding fragment thereof that specifically binds to interleukin-4 receptor (IL-4R), for administration to a subject with determined ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/JP2023052458A",
+      "rank": 7,
+      "fetched_date": "2025-07-28T04:06:33.679069"
+    },
+    {
+      "patent_number": "RU2730625C2",
+      "title": " Vaccine compositions characterized by improved stability and immunogenicity",
+      "description": " FIELD: biotechnology. SUBSTANCE: described is a group of inventions comprising a vaccine composition for inducing a protective immune response to a virus and a method of preventing a viral infection involving administering a vaccine composition, where the virus is selected from a group consisting ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/RU2730625C2",
+      "rank": 8,
+      "fetched_date": "2025-07-28T04:06:33.679071"
+    },
+    {
+      "patent_number": "JP6392422B2",
+      "title": " Monovalent metal cation dry powder for inhalation",
+      "description": " A respirable dry powder comprising respirable dry particles, wherein the respirable dry particles are: a) one or more monovalent metal cation salts, wherein the one or more monovalent metal cation salts are present in an amount of at least about 3% by weight of the dry particles, and b) a ...",
+      "search_term": "app-based placebo",
+      "google_link": "https://patents.google.com/patent/JP6392422B2",
+      "rank": 9,
+      "fetched_date": "2025-07-28T04:06:33.679078"
+    },
+    {
+      "patent_number": "US20210244941A1",
+      "title": " Methods and apparatus for a wearable electronic digital therapeutic device",
+      "description": " A wearable electronic therapeutic device has one or more biometric detectors each for detecting one or more biometric parameters. The biometric parameters are dependent on at least one physiological change to a patient in response to a therapeutic treatment. A microprocessor receives the one or ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/US20210244941A1",
+      "rank": 0,
+      "fetched_date": "2025-07-28T04:06:34.704605"
+    },
+    {
+      "patent_number": "US20230395235A1",
+      "title": " System and Method for Delivering Personalized Cognitive Intervention",
+      "description": " A computational personalized cognitive therapeutic system for treating patients with Mild Cognitive Impairment, Alzheimer&#39;s Disease, dementia and related conditions is described. The system includes a patient clinical database, a data aggregation layer and data pre-processor module, a digital ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/US20230395235A1",
+      "rank": 1,
+      "fetched_date": "2025-07-28T04:06:34.704619"
+    },
+    {
+      "patent_number": "JP6329121B2",
+      "title": " Method performed by a robot system including a mobile robot",
+      "description": " A mobile robot guest for interacting with a human resident performs a room-traversing search procedure prior to interacting with the resident, and may verbally query whether the resident being sought is present. Upon finding the resident, the mobile robot may facilitate a teleconferencing session ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/JP6329121B2",
+      "rank": 2,
+      "fetched_date": "2025-07-28T04:06:34.704623"
+    },
+    {
+      "patent_number": "US11295841B2",
+      "title": " Unsupervised learning and prediction of lines of therapy from high-dimensional ...",
+      "description": " In one aspect, the present disclosure provides a method for labeling one or more medications concurrently administered to a patient as a line of therapy. The method includes identifying medical records of the patient from a plurality of digital records, creating, from the subset of medical records ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/US11295841B2",
+      "rank": 3,
+      "fetched_date": "2025-07-28T04:06:34.704625"
+    },
+    {
+      "patent_number": "US20190019581A1",
+      "title": " Platform and system for digital personalized medicine",
+      "description": " The methods and apparatus disclosed herein provide digital diagnostics and digital therapeutics to patients. The digital personalized medicine system uses digital data to assess or diagnose symptoms of a patient, and feedback from the patient response to treatment is considered to update the ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/US20190019581A1",
+      "rank": 4,
+      "fetched_date": "2025-07-28T04:06:34.704627"
+    },
+    {
+      "patent_number": "US10984899B2",
+      "title": " Platform and system for digital personalized medicine",
+      "description": " The digital personalized medicine system uses digital data to assess or diagnose symptoms of a subject to provide personalized or more appropriate therapeutic interventions and improved diagnoses. The use of prioritized questions and answers with associated feature importance can be used to assess ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/US10984899B2",
+      "rank": 5,
+      "fetched_date": "2025-07-28T04:06:34.704629"
+    },
+    {
+      "patent_number": "KR102785528B1",
+      "title": " Personalized digital therapy methods and devices",
+      "description": " The platforms, systems, devices, methods, and media disclosed herein can assess subjects for a developmental state or conditions and provide improved digital therapeutics. The platforms, systems, devices, methods, and media disclosed herein can be configured to improve a developmental state or ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/KR102785528B1",
+      "rank": 6,
+      "fetched_date": "2025-07-28T04:06:34.704631"
+    },
+    {
+      "patent_number": "US12205725B2",
+      "title": " Methods and apparatus for evaluating developmental conditions and providing ...",
+      "description": " The methods and apparatus disclosed herein can evaluate a subject for a developmental condition or conditions and provide improved sensitivity and specificity for categorical determinations indicating the presence or absence of the developmental condition by isolating hard-to-screen cases as ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/US12205725B2",
+      "rank": 7,
+      "fetched_date": "2025-07-28T04:06:34.704633"
+    },
+    {
+      "patent_number": "US20220392611A1",
+      "title": " System, methods, and apparatuses for managing data for artificial intelligence ...",
+      "description": " Disclosed herein are systems and methods of a digital therapy service to generate therapy regimen addressing a health condition, which may require the customer to perform various tasks and instruct devices to capture data related to the customer&#39;s therapy, including body metric measurements and ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/US20220392611A1",
+      "rank": 8,
+      "fetched_date": "2025-07-28T04:06:34.704635"
+    },
+    {
+      "patent_number": "CN112739287B",
+      "title": " Providing a simulated effect of a dental treatment of a patient",
+      "description": " Systems and methods of simulating dental treatment are disclosed. A method may include: capturing a first 2D image of a patient&#39;s face including the patient&#39;s teeth; constructing a parameterized 3D model of the patient&#39;s teeth based on the 2D images; generating a simulated effect of the dental ...",
+      "search_term": "digital expectation therapy",
+      "google_link": "https://patents.google.com/patent/CN112739287B",
+      "rank": 9,
+      "fetched_date": "2025-07-28T04:06:34.704636"
+    },
+    {
+      "patent_number": "JP5885457B2",
+      "title": " Immunoglobulin variants and their use and use",
+      "description": " SEQ ID NO: 39 the heavy chain sequence and SEQ ID NO: in the light chain sequence of 40, N100A in V H, comprising an amino acid sequence comprising the amino acid substitutions S298A / E333A / K334A in the M32L and Fc region of V L, human CD20 A humanized antibody or antigen-binding fragment ...",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/JP5885457B2",
+      "rank": 0,
+      "fetched_date": "2025-07-28T04:06:36.505788"
+    },
+    {
+      "patent_number": "AU2017218391B2",
+      "title": " Use and monitoring of inhaled nitric oxide with left ventricular assist devices",
+      "description": " Described are systems and methods for administration of nitric oxide (NO) with use of left ventricular assists devices (LVADs), as well as systems and methods for monitoring the NO delivery devices and/or the LVAD.",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/AU2017218391B2",
+      "rank": 1,
+      "fetched_date": "2025-07-28T04:06:36.505801"
+    },
+    {
+      "patent_number": "US9694155B2",
+      "title": " Adjuvant method for the interface of psychosomatic approaches and technology ...",
+      "description": " A method to induce an immediate psychosomatic change in a patient optimal for a particular medical procedure, is provided. The method uses a brain-computer interface integrating a loop of biofeedback and neurofeedback components, interactive, immersive, 3D virtual reality (VR) modules utilizing ...",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/US9694155B2",
+      "rank": 2,
+      "fetched_date": "2025-07-28T04:06:36.505805"
+    },
+    {
+      "patent_number": "TWI848773B",
+      "title": " Methods of treating obesity, overweight condition, central adiposity and ...",
+      "description": " The present invention relates to myostatin or activin antagonists or receptor antagonists for use in improving body composition, e.g., for the treatment of central adiposity, obesity or overweight condition and related comorbidities. The present invention also relates to myostatin or activin ...",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/TWI848773B",
+      "rank": 3,
+      "fetched_date": "2025-07-28T04:06:36.505807"
+    },
+    {
+      "patent_number": "US11883669B2",
+      "title": " Therapy adjustment",
+      "description": " An indication that a patient event occurred may be used to evaluate the efficacy of at least one therapy program and/or adjust therapy delivery to the patient. In some examples, the patient event indication includes patient input that may be received via an event indication button of a programming ...",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/US11883669B2",
+      "rank": 4,
+      "fetched_date": "2025-07-28T04:06:36.505809"
+    },
+    {
+      "patent_number": "JP5824011B2",
+      "title": " System and method for generating time slot samples to which content can be ...",
+      "description": " A computer-implemented method for displaying content on a digital signage network having a plurality of displays at one or more locations, wherein the method is executed on a computer system having one or more processors. Determining a duration for which the computer system displays content based ...",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/JP5824011B2",
+      "rank": 5,
+      "fetched_date": "2025-07-28T04:06:36.505812"
+    },
+    {
+      "patent_number": "JP7153775B2",
+      "title": " Prediction of clinical response to IL23 antagonists using IL23 pathway ...",
+      "description": " For use of interleukin-22 (IL22) and/or lipokine 2 (LCN2) in a method of determining whether to treat a patient with an interleukin-23 (IL23) mediated disease with an IL23 antagonist. There is The method comprises: (i) a level of C-reactive protein (CRP) of at least 5 mg/L and/or a level of fecal ...",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/JP7153775B2",
+      "rank": 6,
+      "fetched_date": "2025-07-28T04:06:36.505813"
+    },
+    {
+      "patent_number": "US20220323462A1",
+      "title": " 19-nor c3,3-disubstituted c21-n-pyrazolyl steroid and methods of use thereof",
+      "description": " Provided herein are methods for treating depression, such as postpartum depression or major depressive disorder, in a subject in need thereof, comprising administering to the subject an effective amount of Compound 1 or a pharmaceutically acceptable salt thereof:",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/US20220323462A1",
+      "rank": 7,
+      "fetched_date": "2025-07-28T04:06:36.505815"
+    },
+    {
+      "patent_number": "RU2750554C2",
+      "title": " Artificial intelligence based computer security system",
+      "description": " FIELD: computer security. SUBSTANCE: invention relates to the field of computer security. The artificial intelligence based computer security system is equipped with memory and a processor interfaced with memory, and this computer security system also includes active protection of critical ...",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/RU2750554C2",
+      "rank": 8,
+      "fetched_date": "2025-07-28T04:06:36.505818"
+    },
+    {
+      "patent_number": "US11564635B1",
+      "title": " System and method for physiological health simulation",
+      "description": " Systems and methods for health and body simulations in order to predict numerous physiological parameters in a subject or a population of subjects based on the input of limited physiological data.",
+      "search_term": "software placebo intervention",
+      "google_link": "https://patents.google.com/patent/US11564635B1",
+      "rank": 9,
+      "fetched_date": "2025-07-28T04:06:36.505819"
+    },
+    {
+      "patent_number": "US20220028529A1",
+      "title": " Methods and systems for treating gastrointestinal and inflammatory health ...",
+      "description": " A prescription digital therapeutic (PDT) system is provided to patients/users suffering from gastrointestinal (GI) and/or inflammatory health conditions, wherein the PDT system allows guided behavioral therapy and skills training to be administered in a convenient and flexible, yet structured ...",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/US20220028529A1",
+      "rank": 0,
+      "fetched_date": "2025-07-28T04:06:37.407467"
+    },
+    {
+      "patent_number": "CN109243605B",
+      "title": " Mental disorder diagnosis and treatment system based on artificial intelligence",
+      "description": " The invention provides a mental disorder diagnosis and treatment system based on artificial intelligence, which comprises a patient end system, a therapist end system and an intelligent auxiliary system; the patient end system collects patient information and sends the patient information to the ...",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/CN109243605B",
+      "rank": 1,
+      "fetched_date": "2025-07-28T04:06:37.407479"
+    },
+    {
+      "patent_number": "US10265028B2",
+      "title": " Method and system for modeling behavior and heart disease state",
+      "description": " A method for evaluating cardiovascular health of a patient includes receiving a log of use dataset associated with patient digital communication behavior at a mobile computing device, wherein the log of use dataset is associated with a time period, receiving a supplementary dataset associated with ...",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/US10265028B2",
+      "rank": 2,
+      "fetched_date": "2025-07-28T04:06:37.407481"
+    },
+    {
+      "patent_number": "JP2022009339A",
+      "title": " Platforms and systems for digital personalized medicine",
+      "description": " The inventions described herein.",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/JP2022009339A",
+      "rank": 3,
+      "fetched_date": "2025-07-28T04:06:37.407482"
+    },
+    {
+      "patent_number": "US20210391083A1",
+      "title": " Method for providing health therapeutic interventions to a user",
+      "description": " CROSS-REFERENCE TO RELATED APPLICATIONS This application is a continuation-in-part of U.S. application Ser. No. 15/265,454, filed 14 Sep. 2016, which claims the benefit of U.S. Provisional Application No. 62/218,848 filed 15 Sep. 2015, and which is a continuation-in-part of U.S. application Ser.",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/US20210391083A1",
+      "rank": 4,
+      "fetched_date": "2025-07-28T04:06:37.407484"
+    },
+    {
+      "patent_number": "US11704582B1",
+      "title": " Machine learning to identify individuals for a therapeutic intervention ...",
+      "description": " Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, for using machine learning to generate precision predictions of readiness. In some implementations, a database is accessed to obtain status data that indicates activities or attributes of a subject.",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/US11704582B1",
+      "rank": 5,
+      "fetched_date": "2025-07-28T04:06:37.407486"
+    },
+    {
+      "patent_number": "US11917250B1",
+      "title": " Audiovisual content selection",
+      "description": " Systems and techniques are disclosed for aspects of audiovisual content selection based on collecting and processing physiological data. In an example, a system comprises: a sensor device with at one physiological sensor to capture physiological data from a human subject; an output device with a ...",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/US11917250B1",
+      "rank": 6,
+      "fetched_date": "2025-07-28T04:06:37.407488"
+    },
+    {
+      "patent_number": "US20250216389A1",
+      "title": " System for Assessing Global Wellness",
+      "description": " A system and method for assessing global wellness and developing a maintenance/treatment program are provided, wherein a plurality of data sources are compiled, including, at minimum (a) a subject&#39;s medical, dental and family histories, and (b) a body fluid sample (e.g. an oral swab or saliva) for ...",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/US20250216389A1",
+      "rank": 7,
+      "fetched_date": "2025-07-28T04:06:37.407490"
+    },
+    {
+      "patent_number": "US20220110563A1",
+      "title": " Dynamic interaction system and method",
+      "description": " A method and system are provided for dynamic user interaction. The method includes assessing input data, received from a user, that is used to determine a psychological state of the user. The method further includes determining a current psychological state of the user, using an application stored ...",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/US20220110563A1",
+      "rank": 8,
+      "fetched_date": "2025-07-28T04:06:37.407491"
+    },
+    {
+      "patent_number": "US20200118164A1",
+      "title": " Integrated mobile device management system",
+      "description": " The embodiments disclose an integrated mobile device management method including using an integrated mobile device management service provider digital programmable server and database server for coordinating processing with device issuer locked devices with functionalities specifically targeted ...",
+      "search_term": "digital psychological intervention",
+      "google_link": "https://patents.google.com/patent/US20200118164A1",
+      "rank": 9,
+      "fetched_date": "2025-07-28T04:06:37.407493"
+    },
+    {
+      "patent_number": "US7226912B2",
+      "title": " Hepatitis C virus non-structural NS3/4A fusion gene",
+      "description": " Disclosed herein is the discovery of a novel hepatitis C virus (HCV) isolated from a human patient. Embodiments of the invention include HCV peptides, nucleic acids encoding said HCV peptides, antibodies directed to said peptides, compositions containing said nucleic acids and peptides, as well as ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/US7226912B2",
+      "rank": 0,
+      "fetched_date": "2025-07-28T04:06:38.945948"
+    },
+    {
+      "patent_number": "JP2024056708A",
+      "title": " Use of chimeric antigen receptor modified T cells to treat cancer",
+      "description": " The present invention provides compositions and methods for treating cancer in humans, comprising administering T cells genetically modified to express a chimeric antigen receptor (CAR), the CAR comprising an antigen-binding domain, a transmembrane domain, a costimulatory signaling region, and a ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/JP2024056708A",
+      "rank": 1,
+      "fetched_date": "2025-07-28T04:06:38.945963"
+    },
+    {
+      "patent_number": "US8935006B2",
+      "title": " Companion robot for personal interaction",
+      "description": " A mobile robot guest for interacting with a human resident performs a room-traversing search procedure prior to interacting with the resident, and may verbally query whether the resident being sought is present. Upon finding the resident, the mobile robot may facilitate a teleconferencing session ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/US8935006B2",
+      "rank": 2,
+      "fetched_date": "2025-07-28T04:06:38.945966"
+    },
+    {
+      "patent_number": "US10564423B2",
+      "title": " Augmented and virtual reality display systems and methods for delivery of ...",
+      "description": " Configurations are disclosed for a health system to be used in various healthcare applications, e.g., for patient diagnostics, monitoring, and/or therapy. The health system may comprise a light generation module to transmit light or an image to a user, one or more sensors to detect a physiological ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/US10564423B2",
+      "rank": 3,
+      "fetched_date": "2025-07-28T04:06:38.945968"
+    },
+    {
+      "patent_number": "JP5952008B2",
+      "title": " Control method and apparatus for energy delivery",
+      "description": " An energy delivery and tracking system configured to deliver energy to an airway in the lung to treat an airway disease, the system comprising: An axis having a proximal end and a distal end; An expandable member including a radio frequency electrode, the expandable member disposed at the distal ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/JP5952008B2",
+      "rank": 4,
+      "fetched_date": "2025-07-28T04:06:38.945970"
+    },
+    {
+      "patent_number": "JP7289540B2",
+      "title": " virtual reality device",
+      "description": " Enables device control via a device user interface that is head-mountable to the wearer and accessible to an operator other than the wearer, allowing the operator to calibrate and calibrate the device while the device is being worn by the wearer. operable to control initiation of a virtual reality ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/JP7289540B2",
+      "rank": 5,
+      "fetched_date": "2025-07-28T04:06:38.945972"
+    },
+    {
+      "patent_number": "US12336804B2",
+      "title": " System and method for diagnosing and treating biological rhythm disorders",
+      "description": " A heart treatment system is disclosed capable of diagnosing one or more critical regions of interest for a biological rhythm disorder by sensing signals from biological tissue. If a critical region is not present at the current location of sensed signals, the system is capable of indicating a ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/US12336804B2",
+      "rank": 6,
+      "fetched_date": "2025-07-28T04:06:38.945974"
+    },
+    {
+      "patent_number": "JP7491943B2",
+      "title": " Personalized digital therapeutic method and device",
+      "description": " 1. A device for assessing an individual for a behavioral disorder, developmental delay, or neurological disorder and providing treatment to said individual, comprising: The device comprises: A processor; and a non-transitory computer-readable medium storing a computer program, the computer program ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/JP7491943B2",
+      "rank": 7,
+      "fetched_date": "2025-07-28T04:06:38.945976"
+    },
+    {
+      "patent_number": "CA3080600C",
+      "title": " Mobile wearable monitoring systems",
+      "description": " 351 1. An apparatus for determining and monitoring neurological or muscular disorders of a subject, comprising: at least one electromyographic (EMG) sensor applied to the subject and acquiring EMG signals; gait sensors acquiring gait signals of the subject; a processor processing the EMG signals to:",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/CA3080600C",
+      "rank": 8,
+      "fetched_date": "2025-07-28T04:06:38.945978"
+    },
+    {
+      "patent_number": "JP7021110B2",
+      "title": " Augmented reality systems and methods for user health analysis",
+      "description": " It \u2019s a display system. A display device configured to present virtual content to a user, said display device comprising a waveguide stack comprising a plurality of waveguides, one or more of the plurality of waveguides. The waveguide is composed of a display device configured to output light with ...",
+      "search_term": "virtual therapeutic presence",
+      "google_link": "https://patents.google.com/patent/JP7021110B2",
+      "rank": 9,
+      "fetched_date": "2025-07-28T04:06:38.945981"
+    }
+  ],
+  "analysis_ready": true
+}
