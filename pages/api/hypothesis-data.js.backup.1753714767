@@ -11,7 +11,7 @@ export default async function handler(req, res) {
     "alternativeHypothesis": "H\u2081: Digital placebo effect > 0.25",
     "significanceLevel": "\u03b1 = 0.05",
     "power": "1 - \u03b2 = 0.85",
-    "lastUpdated": "2025-07-28T10:59:27.474606"
+    "lastUpdated": "2025-07-27T14:52:53.317824"
   },
   "clinicalEvidence": {
     "totalTrials": 5234,
@@ -81,7 +81,7 @@ export default async function handler(req, res) {
     }
   },
   "metadata": {
-    "lastUpdated": "2025-07-28T10:59:27.474606",
+    "lastUpdated": "2025-07-27T14:52:53.317824",
     "dataVersion": "2.0.0",
     "apiVersion": "2.0.0",
     "sources": [
