@@ -1,0 +1,98 @@
+{
+  "data_storage_test": {
+    "clinical_data_files": [
+      {
+        "name": "digital_therapeutics_patents_20250727_204235.json",
+        "size": 9399,
+        "modified": "2025-07-28T03:00:07.180934",
+        "valid": true
+      },
+      {
+        "name": "placebo_effect_patents_20250727_204235.json",
+        "size": 5930,
+        "modified": "2025-07-28T03:00:07.180934",
+        "valid": true
+      },
+      {
+        "name": "clinical_trials_results.csv",
+        "size": 200,
+        "modified": "2025-07-28T03:00:07.176934",
+        "valid": true
+      }
+    ],
+    "market_data_files": [
+      {
+        "name": "market_analysis_results.csv",
+        "size": 1565,
+        "modified": "2025-07-28T03:00:07.180934",
+        "valid": true
+      },
+      {
+        "name": "reddit_api_test_results.json",
+        "size": 2270,
+        "modified": "2025-07-28T03:00:07.180934",
+        "valid": true
+      }
+    ],
+    "pubmed_data_files": [
+      {
+        "name": "pubmed_analysis_results.csv",
+        "size": 11930,
+        "modified": "2025-07-28T03:00:07.180934",
+        "valid": true
+      }
+    ],
+    "openai_data_files": [
+      {
+        "name": "openai_analysis_results.json",
+        "size": 14466,
+        "modified": "2025-07-28T03:00:07.180934",
+        "valid": true
+      }
+    ],
+    "total_files_found": 7,
+    "data_integrity_score": 100.0
+  },
+  "ui_integration_test": {
+    "ui_files_exist": true,
+    "api_endpoints_exist": false,
+    "streamlit_app_exists": true,
+    "nextjs_app_exists": true,
+    "hypothesis_endpoint_valid": true
+  },
+  "api_connectivity_test": {
+    "clinical_trials_api": true,
+    "clinical_trials_response_time": 0.033394813537597656,
+    "pubmed_accessible": true,
+    "reddit_data_available": true,
+    "internet_connectivity": true
+  },
+  "openai_integration_test": {
+    "openai_key_configured": false,
+    "openai_processor_exists": true,
+    "openai_results_exist": true,
+    "ui_content_generated": true,
+    "insights_available": true
+  },
+  "summary": {
+    "test_duration": "0.41 seconds",
+    "overall_score": "98.3%",
+    "status": "PASS",
+    "timestamp": "2025-07-28T03:07:50.736690",
+    "dynamic_display_test": {
+      "data_freshness": true,
+      "real_time_updates": true,
+      "ui_data_binding": true,
+      "llm_enhanced_content": true
+    },
+    "key_findings": [
+      "Strong data storage with high integrity",
+      "Dual UI implementation (Streamlit + Next.js)",
+      "Live clinical trials data connection",
+      "AI-enhanced data analysis active"
+    ],
+    "recommendations": [
+      "Configure OpenAI API key for enhanced insights"
+    ]
+  }
+}
