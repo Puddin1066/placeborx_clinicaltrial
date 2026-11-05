@@ -1,22 +1,8 @@
 name: Automated Hypothesis Testing Pipeline
 
 on:
-  # Daily execution at 2 AM UTC
-  schedule:
-    - cron: '0 2 * * *'
-  
-  # Manual trigger from GitHub UI
+  # Manual-only: disable recurring and push-triggered runs to prevent noisy failures.
   workflow_dispatch:
-  
-  # Trigger on push to main branch (optional)
-  push:
-    branches: [ main ]
-    paths:
-      - 'enhanced_main_pipeline.py'
-      - 'clinical_trials_analyzer.py'
-      - 'market_analyzer.py'
-      - 'pubmed_analyzer.py'
-      - 'openai_processor.py'
 
 jobs:
   run-hypothesis-pipeline:
